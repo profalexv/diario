@@ -1,0 +1,32 @@
+# Este workflow faz deploy automático do Jekyll no GitHub Pages
+name: Deploy Jekyll para GitHub Pages
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  build-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout do código
+        uses: actions/checkout@v4
+
+      - name: Configurar Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.2'
+
+      - name: Instalar dependências do Jekyll
+        run: |
+          gem install bundler
+          bundle install || bundle init && bundle add jekyll && bundle install
+
+      - name: Build do site Jekyll
+        run: bundle exec jekyll build
+
+      - name: Deploy para GitHub Pages
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./_site
