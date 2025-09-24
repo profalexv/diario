@@ -1,0 +1,41 @@
+---
+id: 221
+title: 'A Escola Sabatina &#8211; Uma Missão com propósito'
+date: '2017-08-21T09:58:46-03:00'
+author: alexluza
+layout: post
+guid: 'http://alexandre.pro.br/?p=221'
+permalink: /a-escola-sabatina-uma-missao-com-proposito/
+categories:
+    - 'Escola Bíblica'
+tags:
+    - 'Compilação Ellen G. White'
+    - 'Conceitos Escola Sabatina'
+    - 'Seminário para Professores'
+---
+
+```
+Quanto mais nos esforçamos por explicar a outros a verdade, com amor pelas pessoas, tanto mais clara se tornará ela para nós mesmos.
+```
+
+### Uma Obra Importante
+
+A obra da Escola Sabatina é importante, e todos os que se interessam na verdade devem esforçar-se por torná-la próspera. *Testimonies on Sabbath School Work, pág. 109.*### Maravilhoso Poder Para o Bem
+
+Nossas Escolas Sabatinas não são nada menos que sociedades bíblicas, e no santo trabalho de ensinar as verdades da Palavra de Deus, podem realizar muito mais do que até o presente. A Escola Sabatina, quando bem dirigida, possui maravilhoso poder e se destina a realizar uma grande obra, mas presentemente não é o que deveria ser. A influência que provém da Escola Sabatina deve melhorar e engrandecer a igreja; mas em caso algum jamais se deve permitir que ela se desvie dos interesses da igreja. Há, na Escola Sabatina, um precioso campo missionário, e se agora há sinais que fazem prever o bem, são eles apenas indicações e começo do que pode ser feito. *Testimonies on Sabbath School Work, pág. 29.*### Instrumento de Deus
+
+Tenho profundo interesse pelas nossas Escolas Sabatinas através do mundo, pois creio que são o instrumento de Deus para a educação de nossos jovens nas verdades da Bíblia. Tanto os pais como os professores devem fazer constantes esforços para interessar a juventude nas coisas de importância eterna. A Escola Sabatina é um campo missionário e, nessa importante obra, devemos manifestar muito mais espírito missionário do que se tem manifestado até aqui. *Testimonies on Sabbath School Work, pág. 35.*### Um dos Meios Mais Eficazes
+
+A Escola Sabatina deve ser um dos maiores instrumentos, e o mais eficaz, em levar almas a Cristo. *Testimonies on Sabbath School Work, pág. 20.*### Uma Influência Além do que se Pode Prever
+
+Por meio de Escolas Sabatinas bem organizadas e convenientemente dirigidas, muito pode ser feito em favor da educação e preparo moral e religioso de nossa juventude. A esse ramo da obra devem-se dedicar tempo e atenção, pois não pode ser avaliada a importância de sua influência sobre a juventude. *Testimonies on Sabbath School Work, págs. 14 e 15.*### Poder Convertedor
+
+A Escola Sabatina é um importante ramo do trabalho missionário, não só porque proporciona a jovens e adultos o conhecimento da Palavra de Deus, mas por despertar neles o amor por suas sagradas verdades e o desejo de estudá-las por si mesmos; ensina-os, sobretudo, a regular sua vida por seus santos ensinos. *Testimonies on Sabbath School Work, págs. 109 e 110.*### Uma força Para a Igreja
+
+Há, na Escola Sabatina, um vasto campo que precisa ser diligentemente cultivado, a saber, inspirar nossa juventude a entregar-se inteiramente ao Senhor, para ser por Ele usada em Sua causa. Deve haver, em nossas Escolas Sabatinas, zelosos e fiéis obreiros que, discernindo sobre quem o Espírito Santo está operando, vigiem e cooperem com os anjos de Deus na conquista de pessoas para Cristo. Há sagradas responsabilidades confiadas aos obreiros da Escola Sabatina, e esta deve ser o lugar em que, por meio de viva comunhão com Deus, homens e mulheres, jovens e crianças sejam preparados para ser uma força e bênção à igreja. Tanto quanto sua capacidade o permitir, devem ir de força em força, ajudando a igreja a avançar para cima e para a frente. *Testimonies on Sabbath School Work, pág. 92.*### Campo Vasto, Importante
+
+Os diretores e obreiros de nossas Escolas Sabatinas têm vasto e importantíssimo campo a ser cultivado. Precisam ser batizados com o Santo Espírito de Deus, para que sua mente seja impressionada a usar os melhores métodos e seguir os melhores planos, a fim de terem perfeito êxito em seu trabalho. O Senhor cooperará com seus esforços, pois a juventude foi resgatada com o sangue do unigênito Filho de Deus. O Senhor amou esses jovens, permitindo que Jesus morresse “para que todo aquele que nEle crê não pereça, mas tenha a vida eterna”. João 3:16. Há uma grande obra de educação a ser efetuada. Os professores de crianças e jovens devem freqüentemente orar com eles e por eles, a fim de que vejam “o Cordeiro de Deus, que tira o pecado do mundo”. João 1:29. Devem instruí-los acerca de sua responsabilidade para com Deus, ajudando-os a compreender o que Jesus espera deles. Exercei toda a vossa influência para interessá-los na Escrituras. Trabalhai por essas pessoas, a fim de que se tornem também zelosos obreiros e usem seus talentos para transmitir a outros o que receberam. *Testimonies on Sabbath School Work, pág. 83.*### Digno de Longo Serviço
+
+A Escola Sabatina deve ser um lugar em que se busquem as jóias da verdade, libertando-as dos erros que a cercam e colocando-as no seu verdadeiro lugar na estrutura do evangelho. As preciosas gemas da verdade, há muito perdidas de vista, devem agora ser restituídas aos filhos de Deus. Os temas da justificação pela fé e da justiça de Cristo devem ser apresentados em nossas escolas, a fim de que os jovens e as crianças compreendam esses assuntos e os professores e alunos aprendam o caminho da salvação. Santos e eternos princípios ligados ao plano da salvação, antes olvidados, devem retomar seu lugar de importância aparecendo em sua luz celeste e dissipando a escuridão moral que envolve o mundo. Que a juventude ouça as palavras do sábio: “Confia no Senhor de todo o teu coração e não te estribes no teu próprio entendimento.” Prov. 3:5. Com oração, andem os jovens mansa e cuidadosamente diante do Senhor, confiando continuamente nEle e ao mesmo tempo desenvolvendo todas as faculdades, aproveitando todas as oportunidades e confiando no que o Senhor pode fazer com suas consagradas habilidades. Indaguem eles a cada passo: “É este o caminho do Senhor?” A humildade é a característica dos que possuem a verdadeira sabedoria e, não importa quais sejam seus conhecimentos, não estarão cheios de presunção e confiança própria. O Senhor chama rapazes e moças a se prepararem para fazer, durante a vida toda, fervoroso trabalho na Escola Sabatina. Esforços intermitentes não serão de proveito para realizar muito benefício ou para vos tornar obreiros de êxito na causa de Deus. Por paciente perseverança na prática do bem, tornar-vos-eis cooperadores de Deus. Deveis dia a dia considerar-vos servos de Deus. Sede diligentes em vosso trabalho diário e cuidai em não fazer caminhos tortuosos para vossos pés, para que vossas faltas não desviem do caminho da retidão aos que manquejam. *Testimonies on Sabbath School Work, págs. 50 e 51.*### Recompensa Abundante
+
+Ninguém que trabalhe na Escola Sabatina ou na sociedade de temperança deixará de ceifar abundante colheita, não só no fim do mundo, mas também na vida presente. No esforço de iluminar e abençoar a outros, seus próprios pontos de vista se tornarão mais claros e vastos. Quanto mais nos esforçamos por explicar a outros a verdade, com amor pelas pessoas, tanto mais clara se tornará ela para nós mesmos. Ao entendimento do expositor, ela sempre se abre em nova beleza e força. *Testimonies on Sabbath School Work, pág. 108.*Compilação disponível em https://escolasabatina.com.br/importancia-e-proposito-da-obra-da-escola-sabatina em 21/08/2017.

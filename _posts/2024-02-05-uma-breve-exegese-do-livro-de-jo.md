@@ -1,0 +1,33 @@
+---
+id: 541
+title: 'Uma breve exegese do Livro de Jó'
+date: '2024-02-05T15:02:32-03:00'
+author: alexluza
+layout: post
+guid: 'http://alexandre.pro.br/?p=541'
+permalink: /uma-breve-exegese-do-livro-de-jo/
+categories:
+    - 'Diário Cristão'
+    - Universidade
+tags:
+    - Acadêmico
+    - Sermão
+---
+
+Por vezes tenho ouvido de pregadores que o livro de Jó é como um tratado de Teologia da antiguidade, o pensamento humano sobre vida, sofrimento e recompensa ante a onisciência de um Deus Redentor.
+
+O incrível é que essa imagem é possível na leitura cristã, mas creio que não na original judaica. Analisando o livro de Jó levanta-se muitas questões e hipóteses para o sofrimento, mas poucas respostas. Em suma o que se infere ao final é que ao homem muita coisa é obscura, não revelada, e só Deus conhece todos os detalhes da trama.
+
+Seu objetivo é sim salvar e redimir, mais do que julgar ou recompensar, entretanto, há outros fatores, poderes ou entidades no universo que precisam se igualmente considerados quando o assunto é redenção. Parece que a justiça de Deus, mais do que a misericórdia, precisava ficar patente a um universo espectador desconhecido dos personagens humanos.
+
+Os amigos de Jó, escondidos num texto poético sapiencial aculturado a milhares de anos de nós, têm uma leitura cansativa repetindo uma ideia comum: o justo é abençoado, o ímpio amaldiçoado. Pensamento esse comum inclusive nos dias de hoje, demonstrando ser essa uma interpretação tentadora e que realmente faz sentido aos olhos humanos, mas desprovida de um quadro completo.
+
+As perguntas que surgem, em sua maioria não são respondidas, deixando ao leitor a tomada de suas conclusões.
+
+Uma questão pertinente é que o autor, quiçá Moisés, é conhecedor da existência de um grande conflito cósmico-celeste, o qual não é conhecido dos personagens. As questões levantadas por eles respondem humanamente suas perguntas, mas ficam sem conclusão cada vez que são aplicadas a Jó.
+
+Eliú surge como um árbitro, tentando validar as conclusões tomadas, mas igualmente fica preso nos paradoxos dos fatos.
+
+O próprio Jó parece conhecedor de sua própria justiça, merecedor das benesses divinas, contrariando o senso bíblico de que ao ser humano é impossível ser considerado justo diante de Deus sem a atuação direta da graça de Deus. A introdução do livro (cap 1)Talvez essa seja a questão que faz com que alguns interpretes apontem que Jó seja um tipo de Cristo, uma versão do evangelho contada ao mundo veterotestamentário. Há um paralelo aparente entre as história de Jó e a profecia reconhecida como messiânica de Isaías 53.
+
+Nesse ponto de vista, Jó pode ser um personagem alegórico ou baseado na história real de algum patriarca desconhecido, entretanto, e os discursos de afirmações vêm de uma linha de pensamento humana, onde a justiça é designada em valores humanos. Não é sensato pensar que os diálogos são reais tais como estão no texto. Mesmo que o personagem Jó seja uma pessoa real, a história é como uma peça, uma interpretação. O fato de ser escrito em poesia demonstra que foi criado para ser declamado, como uma pregação viva. E enquanto o ouvinte/espectador observa a trama, vai conflitando seus próprios pensamentos. A honra, a obediência, a caridade, o estoicismo (essa palavra ainda não existia na época da escrita do livro), são apontados como características que tornam o patriarca digno das graças divinas (ao ouvinte/leitor do livro). Sabemos que esse conceito não é apropriado, exceto se espera-se representar algo maior e diferente. O livro discute a não validade dos conceitos humanos de sucesso, justiça, grandeza e riqueza, declarando que tudo depende de colocar-se nas mãos de Deus e sua mercê no conflito cósmico entre o bem e o mal.

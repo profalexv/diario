@@ -1,0 +1,23 @@
+---
+id: 225
+title: 'Auxilio Divino aos Professores da Escola Bíblica'
+date: '2017-09-10T10:25:03-03:00'
+author: alexluza
+layout: post
+guid: 'http://alexandre.pro.br/?p=225'
+permalink: /auxilio-divino-aos-professores-da-escola-biblica/
+categories:
+    - 'Escola Bíblica'
+tags:
+    - 'Compilação Ellen G. White'
+    - 'Conceitos Escola Sabatina'
+    - 'Seminário para Professores'
+---
+
+Rogo aos obreiros de nossas Escolas Sabatinas que se revistam de toda armadura de Deus e demonstrem sua fidelidade, como bons soldados de Jesus Cristo.
+
+### Prometidas força e sabedoria
+
+Que todo obreiro fiel e honesto de coração seja animado a continuar a trabalhar, tendo em vista que cada um será recompensado segundo as suas obras. Trabalhai com o único objetivo de glorificar a Deus. Não recuseis assumir responsabilidades, por terdes um sentimento de vossa fraqueza e ineficiência. Deus pode dar-vos força e sabedoria, se sois consagrados a Ele e vos conservais humildes. Que ninguém, por negligência, recuse trabalhar nem se adiante, impondo seus serviços quando não é desejado. ### O dever de trabalhar por outros
+
+Que todo obreiro fiel seja grato a Deus pela honra de trabalhar pelo Mestre. Aproveitai as oportunidades de praticar o bem e aumentai os talentos que Deus vos deu, buscando diariamente a graça que vos habilite a fazê-lo. As oportunidades perdidas no passado, bem vos podem humilhar até ao pó, levando-vos a vigiar cuidadosamente, para não deixar passar ocasiões de ser uma bênção para os outros. Quantas vezes chegou a hora de trabalhar, mas o obreiro não estava em seu posto! Poderiam ter sido ditas palavras que ajudariam e fortaleceriam pessoas fracas, que lutavam sob a tentação, mas nunca foram proferidas. Poderiam ter-se desenvolvido bem dirigidos esforços pessoais, que salvariam uma pessoa da morte, cobrindo uma multidão de pecados, mas ninguém havia que fizesse o trabalho. Os negligentes terão de defrontar sua negligência no dia de Deus. Preciosíssimo é o sangue de Cristo, o qual nos purifica de todo pecado. O sentimento do amor redentor de Cristo deve levar-nos a abraçar toda oportunidade de fazer o bem. Esses momentos são excessivamente preciosos, quando empregados para glória de Deus. Os que buscam riquezas terrestres, espreitam cuidadosa e constantemente as oportunidades de alcançar o desejado objetivo, e os obreiros de Cristo não devem ser menos fervorosos na conquista de almas. Poderão ser colaboradores de Cristo, se Lhe imitarem o exemplo, fazendo o bem a todos os que estiverem na esfera de sua influência. Por amor de Cristo, devem os professores e dirigentes da Escola Sabatina ser homens e mulheres que amem e temam a Deus; que compreendam a responsabilidade de sua posição, como os que velam pelas pessoas e precisam dar conta a Deus da influência que exercem sobre os que estão ao seu cuidado. Fé nas promessas de Deus Devemos crescer na fé, do contrário não poderemos ser transformados à imagem divina, nem amar e obedecer às exigências de Deus. Orai com lábios não fingidos: “Senhor, aumenta-me a fé; dá-me luz divina, pois sem Teu auxílio nada posso fazer.” Chegai-vos humildemente e inclinai-vos diante de Deus; abri perante o Senhor vossa Bíblia contendo as promessas divinas; apegai-vos a elas; fazei com Deus um concerto de que haveis de cumprir Suas exigências; dizei-Lhe que crerdes, sem qualquer outra evidência a não ser a simples promessa. Isso não é presunção, mas a menos que trabalheis com zelo e sejais fervorosos e resolutos, Satanás obterá vantagem e sereis deixados em trevas e na incredulidade. As palavras e promessas divinas são o único fundamento de nossa fé. Tomai a Palavra de Deus como verdade, como uma voz viva que vos fala, e obedecei fielmente a todos os seus reclamos. Fiel é o que prometeu. Deus cooperará com os esforços dos diretores e professores. A fraqueza de nossa fé é o que nos limita as bênçãos. Devemos ser mansos e humildes de coração. Diariamente podemos ter ricas evidências de Seu amor e misericórdia em nossos abnegados esforços de fazer o bem a outros. Rogo aos obreiros de nossas Escolas Sabatinas que se revistam de toda armadura de Deus e demonstrem sua fidelidade, como bons soldados de Jesus Cristo. Deus recompensará todo trabalho que for feito para Sua glória. — Testimonies on Sabbath School Work, 26-29. Compilação disponível em https://escolasabatina.com.br/auxilio-divino-ao-professor-da-escola-sabatina em 10/09/2017.

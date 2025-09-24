@@ -1,0 +1,23 @@
+---
+id: 194
+title: 'O Professor da Escola Sabatina e o Discipulado'
+date: '2017-07-08T08:36:51-03:00'
+author: alexluza
+layout: post
+guid: 'http://alexandre.pro.br/?p=194'
+permalink: /o-professor-da-escola-sabatina-e-o-discipulado/
+categories:
+    - 'Escola Bíblica'
+tags:
+    - 'Compilação Ellen G. White'
+    - 'Conceitos Escola Sabatina'
+    - 'Seminário para Professores'
+---
+
+## A missão do Professor da Escola Sabatina
+
+Se alguém se julga capaz de ensinar na Escola Sabatina, necessita primeiro aprender o temor do Senhor, que é o princípio da sabedoria, para que possa ensinar esta ciência, a mais elevada de todas. ### A mais elevada de todas as ciências
+
+Apresentar em cada esforço missionário a Jesus Cristo, e Este crucificado, significa muito mais do que as mentes finitas podem compreender. “Mas Ele foi ferido pelas nossas transgressões e moído pelas nossas iniquidades; o castigo que nos traz a paz estava sobre Ele, e, pelas Suas pisaduras, fomos sarados.” Isaías 53:5. “Àquele que não conheceu pecado, o fez pecado por nós; para que, nEle, fôssemos feitos justiça de Deus.” 2 Coríntios 5:21. Esta deve ser a preocupação de nossa obra. Se alguém se julga capaz de ensinar na Escola Sabatina, ou na Escola Primária, a ciência da educação, necessita primeiro aprender o temor do Senhor, que é o princípio da sabedoria, para que possa ensinar esta ciência, a mais elevada de todas. — Fundamentos da Educação Cristã, 272. ### A Escolha dos professores
+
+A instrução dada aos jovens e às crianças não deve ser de caráter superficial. Os professores, como defensores da verdade, devem fazer todo o possível para elevar a norma. Não pode haver coisa pior para vossa Escola Sabatina do que colocar como obreiros moços e moças que tenham demonstrado falhas na experiência religiosa. … Não deveis baixar o padrão em vossas Escolas Sabatinas. Vossas crianças devem ter professores, cujo exemplo e influência sejam uma bênção em vez de maldição. Devem constantemente ter diante de si um elevado sentimento da virtude, pureza e santidade que caracterizam a vida cristã. Suas idéias nesse ponto não devem ser confusas; ninguém proceda imprudente ou ignorantemente nessas questões. Não animeis, por meio da voz ou da pena, homens e mulheres que não tenham valor moral, cuja vida passada demonstre falta de consciência e integridade. Podem ser perspicazes, engenhosos e inteligentes; mas se o coração não está imbuído do Espírito de Deus, se não possuem integridade de caráter, sua influência tenderá a ser terrena em vez de celestial e será prejudicial onde quer que estejam e o que quer que façam. Temos grande necessidade de homens e mulheres que sintam o pecado e odeiem a iniquidade; que tenham visão espiritual para discernir as necessidades da causa de Deus e, escondendo-se em Jesus, trabalhem com abnegado e consagrado interesse. Precisamos de jovens que Deus possa aprovar, que tenham piedade prática e espírito pronto para sentir e prevenir o perigo; homens e mulheres que não se exaltem a si mesmos nem procurem ocultar a deformidade da alma sob o manto da piedade; que sintam sua fraqueza e imperfeições de caráter e cuja desajudada alma esteja unida a Jesus Cristo. Os que confiam em si mesmos, julgando que sua conduta está acima de críticas, apresentarão trabalho muito imperfeito. Declarou o apóstolo: “Quando estou fraco, então, sou forte.” 2 Coríntios 12:10. Reconhecendo sua fraqueza, apegou-se, pela fé, a Jesus Cristo e Sua graça. … Todo obreiro da Escola Sabatina que, pela transformadora graça de Cristo, passou da morte para a vida, revelará, em seu próprio coração, a profunda operação do Espírito de Deus. São servos infiéis os que tentam dirigir outros, tendo a pretensão de guiar pessoas no caminho da santidade, enquanto sua própria vida revela o orgulho, o amor dos prazeres e da ostentação. Sua vida não está de acordo com sua profissão; sua influência é uma ofensa a Deus. Precisam de uma conversão perfeita. Têm o coração tão cheio de coisas vis que não há lugar para a verdade que eleva e enobrece. O templo da alma precisa ser purificado, pois é Satanás e não Cristo que lhes habita no coração. É essencial que se tome cuidado ao colocar homens e mulheres em cargos de confiança. Deveis saber algo referente à sua vida passada e ao caráter que têm desenvolvido. É preferível duplicar as classes sob a direção de obreiros tementes a Deus do que multiplicar professores, cuja influência não esteja de acordo com o santo caráter da verdade que professamos, pois essa influência será desmoralizadora. — Testimonies on Sabbath School Work, 22-26. Compilação disponível em https://escolasabatina.com.br/a-escolha-de-professores em 08/07/2017

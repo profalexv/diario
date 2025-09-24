@@ -1,0 +1,25 @@
+---
+id: 543
+title: 'Paralelos interpretativos da Parábola do Filho Pródigo'
+date: '2024-02-14T15:08:59-03:00'
+author: alexluza
+layout: post
+guid: 'http://alexandre.pro.br/?p=543'
+permalink: /paralelos-interpretativos-da-parabola-do-filho-prodigo/
+categories:
+    - 'Diário Cristão'
+    - Universidade
+tags:
+    - Acadêmico
+    - Sermão
+---
+
+A parábola do filho pródigo está inserida em um conjunto de parábolas, chamadas as vezes de parábolas de misericórdia. Muitas vezes interpretada de forma alegórica, atribuindo significado relevante aos personagens: o pai, o filho mais moço e o filho mais velho. Em narrativas distintas, a família representa o amor do Pai enquanto tenta resgatar seus filhos, sendo que um deles deliberadamente abandonou a casa paterna e pilhou seus bens. Enquanto isso seu filho mais velho permanece ao lado do pai, mas igualmente descontente em busca de reconhecimento próprio em suas realizações, uma forma de tentar “comprar” o favor do pai.
+
+Embora essa leitura alegórica não perca a elegância nos púlpitos, pode-se enxergar um significado mais profundo se compreendido como uma “parábola”, um gênero literário que busca ensinar uma lição específica utilizando narrativas comuns ao público ouvinte, que poderia facilmente sentir-se dentro da parábola e compreender o seu significado.
+
+O conjunto de parábolas representa pelo menos quatro situações diversas dentre os que são “buscados”. A dracma perdida representa o valor pessoal e profundo de algo sem o valor real, mas que o proprietário, ou melhor, proprietária, empenha-se em encontrá-la. A dracma não reconhece seu estado e não sabe o que se passa “nos bastidores”. Sua recuperação acontece única e exclusivamente pela atuação do(a) dono(a). Já a ovelha perdida se reconhece perdida, sente os temores, entretanto, não consegue retornar e depende do dono sentir-lhe a falta e ir em busca até que o encontre e o leve ao redil.
+
+A continuação do texto chega a parábola do Pai amoroso e seus filhos, sendo a primeira parte dedicada ao filho mais moço, que abandona o lar, levando sua parte da herança. Perde tudo e finalmente se apercebe da situação precária em que se encontra. Retorna e é recebido com festa pelo pai, que ansiosamente o aguardava. Por fim, a última etapa da parábola trata do filho mais velho, o qual não saiu de casa, não se reconhece como perdido e nem é buscado, estando em igual situação ao filho perdido, sendo incapaz de sentir alegria pelo resgate do irmão pelo pai amoroso.
+
+A busca por significado além do exposto na narrativa esconde alguns perigos. A leitura alegórica pode destituir valores literários, mas a literalização também pode desvirtuar dando demasiada ênfase em detalhes narrativos que apenas compõe o texto com a sentido de dar-lhe nexo. Ou seja, a leitura deve ser feita como que imergindo na história, visualizando os personagens e, por fim, assimilando seu significado.

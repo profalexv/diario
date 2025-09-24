@@ -1,0 +1,43 @@
+---
+id: 130
+title: 'SUSTENTABILIDADE – UM COMPROMISSO COM O MUNDO QUE VIVEMOS'
+date: '2014-10-21T18:35:17-03:00'
+author: alexluza
+layout: post
+guid: 'http://alexandre.pro.br/?p=130'
+permalink: /sustentabilidade-um-compromisso-com-o-mundo-que-vivemos/
+categories:
+    - Pedagogia
+tags:
+    - Acadêmico
+---
+
+# <span style="font-family: Arial, sans-serif"><span style="font-size: medium"><u>SUSTENTABILIDADE – UM COMPROMISSO COM O MUNDO QUE VIVEMOS</u></span></span>
+
+## <span style="font-family: Arial, sans-serif"><span style="font-size: medium">***PROJETO CAMARITA***</span></span>
+
+<span style="font-family: Arial, sans-serif">Nesta atividade escolhi um projeto chamado CAMARITA (Associação Ecológica dos Catadores de Materiais Recicláveis de Itaiópolis), que tem o apoio da prefeitura do município de Itaiópolis/SC, da Embraco (empresa localizada no município) e UnC (Universidade do Contestado).</span>
+
+<span style="font-family: Arial, sans-serif">A iniciativa tem por objetivo organizar o serviço dos catadores, e sendo que o município é relativamente pequeno não são muitos. </span>
+
+<span style="font-family: Arial, sans-serif">Além de organizar esses trabalhadores em uma associação, permitindo um melhor rendimento, o objetivo da associação acima de tudo preza pelo sentido ecológico da atividade, retirando do meio ambiente, seja do meio urbano ou rural, lixo e produtos que podem ser reciclados, resultando em benefícios diversos para a coletividade. Dentre esses benefícios podemos citar:</span>
+
+- <span style="font-family: Arial, sans-serif">Renda para os catadores, os quais normalmente vivem </span><span style="font-family: Arial, sans-serif">marginalizados pela </span><span style="font-family: Arial, sans-serif"> sociedade; </span>
+- <span style="font-family: Arial, sans-serif">Organização desses trabalhadores de forma a conseguir preços de venda (renda bruta) melhores pela quantidade e melhor lucratividade pelo redução do custo </span><span style="font-family: Arial, sans-serif">de transporte e </span><span style="font-family: Arial, sans-serif">eliminação de atravessadores, </span><span style="font-family: Arial, sans-serif">entre outros fatores;</span>
+- <span style="font-family: Arial, sans-serif">Possibilitar o processamento próprio d</span><span style="font-family: Arial, sans-serif">a</span><span style="font-family: Arial, sans-serif"> de reciclagem, quando a demanda o permitir, </span><span style="font-family: Arial, sans-serif">aumentando a rentabilidade;</span>
+- <span style="font-family: Arial, sans-serif">Manter a área do município, tanto urbana quanto rural, livre de lixo reciclável, evitando o entupimento de vias fluviais, lesão ou morte de animais silvestres ou mesmo domésticos e outros efeitos indesejáveis desse tipo de lixo;</span>
+- <span style="font-family: Arial, sans-serif">Melhorar e manter o visual limpo e estético da cidade.</span>
+
+<span style="font-family: Arial, sans-serif">Acredito que esse projeto a cumpre bem com os pressupostos da sustentabilidade, numa relação ganha-ganha com todos os envolvidos, pois beneficia os trabalhadores, beneficia a cidade, contribuindo com sua estética, possibilitando inclusive uma economia com as obras públicas, pelo não entupimento das vias fluviais, por exemplo.</span>
+
+<span style="font-family: Arial, sans-serif">A não condução desse tipo de lixo para o aterro sanitário também tem um resultado muito positivo, pois o mesmo não irá “crescer” de forma tão rápida, além do que o lixo orgânico tem a possibilidade de reaproveitamento futuro do depósito (aterro) para projetos ambientais (produção de substratos, reflorestamento do espaço do aterro ou outra maneira menos prejudicial do que se tivesse cheio de lixo não perecível – plásticos, metais, vidros, etc).</span>
+
+<span style="font-family: Arial, sans-serif">De maneira mais abrangente, a reciclagem contribui com o meio ambiente de uma forma pouco abordada, mas igualmente eficiente, </span><span style="font-family: Arial, sans-serif">ao possibilitar a produção de um produto novo sem que seja necessário retirar do meio ambiente a matéria-prima necessária, sendo que nesse processo de obtenção da matéria-prima (entenda-se: metais, plásticos, vidros e papel) pode-se observar alguns detalhes:</span>
+
+- <span style="font-family: Arial, sans-serif">Os recursos naturais utilizados para produção de matérias-primas são finitos no ambiente (pode-se considerar o papel uma exceção nesse caso, mas sua produção desenfreada pode delinear o fim de florestas inteiras; </span>
+- <span style="font-family: Arial, sans-serif">A produção de mais lixo de materiais utilizados para o processamento do recurso enquanto da sua produção e transformação em matéria-prima;</span>
+- <span style="font-family: Arial, sans-serif">O processo produtivo causa muitos danos ao meio ambiente considerando seu processo de extração e produção.</span>
+
+<span style="font-family: Arial, sans-serif">A CAMARITA faz um trabalho de conscientização junto a população com panfletagem, </span><span style="font-family: Arial, sans-serif">campanhas escolares e palestras e a prefeitura apoia organizando a coleta por bairros uma vez por semana com caminhão designado.</span>
+
+<span style="font-family: Arial, sans-serif">Assim, podemos dizer sem medo de errar que essa é uma iniciativa pública que vem contribuir de maneira significativa em relação a ecologia e sustentabilidade e merece com certeza ser replicado por outros municípios, sendo adaptado por cada um de acordo com sua necessidade, porte e comportamento da população.</span>

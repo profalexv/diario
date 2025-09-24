@@ -1,0 +1,93 @@
+---
+id: 432
+title: 'Crédito de Carbono'
+date: '2006-12-31T18:20:37-03:00'
+author: alexluza
+layout: post
+guid: 'http://alexandre.pro.br/?p=94'
+permalink: /credito-de-carbono/
+categories:
+    - Pedagogia
+tags:
+    - Acadêmico
+---
+
+> Texto apresentado na disciplina de Educação Ambiental, da professora Elzira Maria Bagatin Munhoz, na faculdade de Pedagogia da Univille por Mariluza Soares Vieira, Amanda Cristina da Maia e Daniele Guimarães Figueiredo
+
+**INTRODUÇÃO**
+
+Apresentamos nesta pesquisa um dos artifícios criados numa tentativa de incentivar a preservação ambiental e a diminuição de gases poluentes e causadores do efeito estufa.
+
+Durante séculos e até mesmo milênios a natureza gerou gás carbônico em escala natural, de maneira que, num ciclo constante, fosse reabsorvido na natureza. Nos últimos 250 anos a revolução industrial e a criação de vários meios de obtenção de energia tem aumentado sobremaneira a emissão do gás e outros poluentes, gerando várias consequências, algumas bastante problemáticas para a condição de vida.
+
+Nos últimos anos a preocupação crescente com o tema tem apresentado diversas alternativas, algumas bastante utópicas, outras bem práticas. Uma delas são os “Créditos de Carbono”, que incentiva o uso racional de recursos naturais na obtenção de energia, além de gerar recursos a serem investidos em projetos ecológicos.
+
+Nesta pesquisa vamos definir o termo e apresentar a importância que atualmente tem assumido no contexto econômico, bem como no incentivo de projetos de redução da emissão de gases poluentes.
+
+# **1Crédito de carbono**
+
+## 1.1Definição
+
+Os “Créditos de Carbono” são certificados outorgados pelos órgãos e agências ambientais em troca do cumprimento de metas de redução de índices de poluição, projetos de preservação ambiental ou de não poluição. Esses créditos podem ser negociados, gerando recursos e subsídios para novos projetos ambientais. A negociação ocorre de forma simples: Empresas que não cumprem suas metas compram daqueles que receberam os créditos, adquirindo assim o direito de poluir. Outrossim, tem sido uma forma de permitir que cada empresa imponha seu próprio modo de assumir esse papel de redução de poluentes.
+
+## 1.2Um breve histórico
+
+Já de longa data vemos o interesse crescente por assuntos ambientais no que diz respeito a preservação e recuperação, através do desenvolvimento responsável.
+
+Essa crescente preocupação levou a ONU – Organização das Nações Unidas a assinar um acordo que regesse formas de estipular controles sobre as intervenções humanas no clima.
+
+Assim o mercado de créditos de carbono nasceu em dezembro de 1997 com a assina-tura do Protocolo de Kyoto. Determinando que os países designados como desenvolvidos (ou de países do Anexo I), reduzam suas emissões de gases de efeito estufa em 5,2%, em média, relativas ao ano de 1990, entre 2008 e 2012 e definindo quais as alternativas para auxilia-los no cumprimento de suas metas, chamadas de mecanismos de flexibilização. Para não comprometer as economias desses países, o protocolo estabeleceu que, caso seja impossível atingir as metas estabelecidas por meio da redução das emissões dos gases, os países poderão comprar créditos de outras nações que possuam projetos de Mecanismo de Desenvolvimento Limpo (MDL), criando assim a preservação ambiental como mercadoria a ser negociada.
+
+## 1.3O Mecanismo de Desenvolvimento Limpo (MDL)
+
+Tendo origem numa proposta brasileira, trata do comércio de créditos de carbono baseado em projetos de sequestro ou mitigação. O MDL é um instrumento de flexibilização que permite que os países em desenvolvimento, que, portanto, não têm compromissos de redução, como o Brasil, negociem seus “Créditos de Carbono” com os demais que não conseguirem cumprir suas metas, dando liberdade a esses países desenvolvidos a investirem em projetos MDL dos países em desenvolvimento. Pelo projeto os países desenvolvidos comprariam créditos de carbono, em tonelada de CO2 equivalente, de países em desenvolvimento responsáveis por tais projetos.
+
+Há vários critérios para reconhecimento desses projetos, e são fiscalizados por um órgão nacional designada para tal. No Brasil é a Comissão Interministerial de Mudança do Clima. Somente após a aprovação pela Comissão, é que o projeto pode ser submetido à ONU para avaliação e registro.
+
+### 1.3.1Negociações
+
+A negociação de contratos futuros de crédito de carbono tem ocorrido nas bolsas de valores de diversos países ao redor do mundo. O Brasil surge como vendedor de créditos de carbono, e como alvo de investimentos em projetos engajados com a redução da emissão de gases poluentes. Segundo dados do Banco Mundial, o país poderá ter uma participação de 10% no mercado de MDL, equivalente a US$ 1,3 bilhões em 2007. (Disponível em &lt;<u>[http://www.biodieselbr.com/credito-de-carbono/mdl/index.htm&gt;.](http://www.biodieselbr.com/credito-de-carbono/mdl/index.htm)</u> Acesso em 02 set. 2006).
+
+### 1.3.2Antecedentes
+
+Nos processo de industrialização e mecanização desenfreada que o mundo foi acometido nos últimos 250 anos a atmosfera tem tido uma forte alteração na sua estrutura. A concentração de CO2 atmosférico aumentou 31%, atingindo, provavelmente, o nível mais alto desde que atingira as condições de vida. Essas referências podem ainda aumentar se não assumir-se o controle e alterar significativamente as formas de obtenção de energia. A queima de combustíveis fósseis e a produção de cimento são responsáveis pela produção de cerca de 75% dos gases responsáveis pelo efeito estufa. O mau uso da terra, como o desmatamento, também tem significativa contribuição (25%). O aquecimento global causado pela emissão de gases de efeito estufa (GEE) por fontes de produção humana representa uma grande preocupação à sociedade. (Idem).
+
+### 1.3.3O Cenário Mundial
+
+Alguns países de Anexo I (países desenvolvidos), como a Islândia e a Austrália, não assumem o compromisso de redução (com possibilidade, inclusive, de aumentar suas emissões no período de compromisso), e outros, como a Rússia, que têm reduzido substancialmente suas emissões, e que podem lucrar substancialmente com o comércio de permissões (allowances).
+
+Atualmente, a tonelada de carbono dos projetos de MDL é vendida em torno de US$ 5,00 a 6,00, para projetos que obedeçam todas as premissas do Protocolo de Kyoto. Outras alternativas de comercialização (iniciativas voluntárias) se apresentam, com regras mais flexíveis, onde os preços para a tonelada são mais baixos (em torno de US$ 0,90). Com a recente ratificação do Protocolo, a expectativa é que estes valores sofram acréscimos ao longo do tempo.
+
+Segundo estimativas do Banco Mundial, os principais compradores de créditos entre janeiro de 2004 e abril de 2005 foram o Japão (21%), a Holanda (16%), o Reino Unido (12%) e o restante da União Européia (32%). Em termos de oferta de créditos (volume), considerando projetos de MDL e IC, a Índia lidera o ranking, com 31%. O Brasil possui 13% do “share”, o restante da Ásia (inclusive China) 14% e o restante da América Latina 22%. A participação da índia e do restante da Ásia é expressiva por seus projetos de destruição do HFC23, gás cujo potencial de aquecimento global é 11.700 vezes o do CO2.” (Idem).
+
+## 1.4Alternativas e sua aplicação no Brasil
+
+Entre as alternativas apontadas nos projetos de redução de poluentes atmosféricos causadores do efeito estufa temos sobretudo o reflorestamento, que irá sequestrar gás carbônico da atmosfera, além de gerar material que bem utilizado reduzirá queimadas ou outras práticas nocivas. Em alguns casos a matéria prima gerada por esse reflorestamento irá manter “aprisionado” o carbono mesmo depois de industrializado, como a confecção de móveis. Também a reutilização dos resíduos industriais na produção de combustíveis tem resultado bastante eficaz, uma vez que a quantidade de CO2 que o lixo (bagaço da cana, por exemplo) irá liberar para a atmosfera em seu processo de decomposição é o mesmo que irá liberar na queima, gerando energia, considerada assim, como energia limpa. O uso de combustíveis desenvolvidos a partir de biomassa (biodiesel, feito do óleo da mamona, ou carvão vegetal, oriundos de reflorestamento), que além de gerar créditos através do sequestro do carbono da atmosfera substituirá o uso do combustível fóssil (petróleo e carvão mineral).
+
+**Considerações finais**
+
+Os “Créditos de Carbono” têm surgido da necessidade de se controlar e incentivar a redução da emissão dos gases poluentes, gerando recursos econômico e métodos de medição para indicadores da melhora ou não do estado atual.
+
+Tem-se demonstrado eficiente na geração de receitas e nos projetos desenvolvidos. Outrossim, pode ser usado como um meio de se adquirir o “direito de poluir”, trocando-se um projeto de desenvolvimento ecológico caro por um “crédito de carbono” mais em conta, adquirido de países ricos em matéria florestal, como o Brasil.
+
+**Anexos**
+
+Distribuição de Técnologia
+
+<span lang="pt-BR">Redução na emissão de CO2</span>
+
+<span lang="pt-BR">Fonte: </span><span lang="pt-BR">MAGALHÃES SOBRINHO, Pedro. Disponível em &lt;</span><u><span lang="pt-BR"><http://www.cpfl.com.br/>[new/](http://www.cpfl.com.br/new/)[brasil/](http://www.cpfl.com.br/new/brasil/)[palestras\_gei/](http://www.int.gov.br/questao/pdf/clipping03.pdf)</span></u><span lang="pt-BR">&gt;. Acesso em 02 set. 2006.</span>
+
+**referências bibligráficas**
+
+BRASIL. Ministério da Ciência e Tecnologia. **Mct.empauta.com:** Clipping da imprensa. Brasília, 13 set. 2005. Disponível em &lt;<u><http://www.int.gov.br/questao/pdf>[ /clipping03.pdf](http://www.int.gov.br/questao/pdf/clipping03.pdf)</u>&gt;. Acesso em 02 set. 2006.
+
+DIÁRIO DO SENADO FEDERAL. Brasília, 18 fev. 2004. Disponível em &lt;<u>[http:// www.](http://www/)[senado](http://www.senado/)[.gov](http://www.senado.gov/)[.br/](http://www.senado.gov.br/)[web/](http://www.senado.gov.br/web/)[cegraf/](http://www.senado.gov.br/web/cegraf/)[pdf/](http://www.senado.gov.br/web/cegraf/pdf/)</u><u>17022004/04705.pdf</u>&gt;. Acesso em 02 set. 2006.
+
+MURASAWA, Linda; LOMBARDI, Antonio. **3º Congresso brasileiro de eficiência energética e cogeração de energia:** Projetos e Financiamentos Sócioambientais. Disponível em &lt;<u>[http://www.metodoeventos.com.br/3eficienciaenergetica](http://www.metodoeventos.com.br/3eficienciaenergetica/downloads/2805/tarde/)</u><u>&gt;</u>. Acesso em 02 set. 2006.
+
+<span lang="pt-BR">MARTINS JUNIOR, Carlos de Mathias. </span><span lang="pt-BR">**O gargalo de investimento em negócios sustentáveis:** </span><span lang="pt-BR">I forum de investidores em negócios sustentáveis. Disponível em &lt;</span><u>[<span lang="pt-BR">http://www.new-ventures.org</span>](http://www.new-ventures.org/UserFiles/File/Brazil)</u><span lang="pt-BR">&gt;. Acesso em 02 set. 2006.</span>
+
+<span lang="pt-BR">BRASIL. Serviço Geológico do Brasil. Desenvolvimento limpo vale ouro. </span><span lang="pt-BR">**Clipping.** </span><span lang="pt-BR">Disponível em &lt;</span><u>[<span lang="pt-BR">http://www.cprm.gov.br/imprensa/Site/pdf/Clippings/clipping120-2005.pdf</span>](http://www.int.gov.br/questao/pdf/clipping03.pdf)</u><span lang="pt-BR">&gt;. Acesso em 02 set. 2006.</span>
+
+<span lang="pt-BR">MAGALHÃES SOBRINHO, Pedro. </span><span lang="pt-BR">**Oportunidades de negócios através de obtenção de créditos de carbono e cogeração:** </span><span lang="pt-BR">Programa de eficiência produtiva. Disponível em &lt;</span><u>[<span lang="pt-BR">http://www.cpfl.com.br/new/brasil/palestras\_gei/</span>](http://www.int.gov.br/questao/pdf/clipping03.pdf)</u><span lang="pt-BR">&gt;. Acesso em 02 set. 2006.</span>

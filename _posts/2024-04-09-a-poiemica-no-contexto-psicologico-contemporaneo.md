@@ -1,0 +1,38 @@
+---
+id: 517
+title: 'A Poiêmica no contexto psicológico contemporâneo'
+date: '2024-04-09T13:44:55-03:00'
+author: alexluza
+layout: post
+guid: 'http://alexandre.pro.br/?p=517'
+permalink: /a-poiemica-no-contexto-psicologico-contemporaneo/
+categories:
+    - 'Diário Cristão'
+    - Universidade
+tags:
+    - Acadêmico
+    - Sermão
+---
+
+No texto “Interface entre o aconselhamento psicológico e aconselhamento espiritual” (PEREIRA, 2009) a autora explora a concepção moderna de aconselhamento psicológico, aplicando-o ao universo religioso e expõe, de certa forma, como psicólogos atuais têm suprido a demanda outrora cumprida por pastores, pregadores e clérigos, na tarefa de auxiliar a seus congregados e fiéis no caminho da busca, do encontro ou da plenitude espiritual.
+
+Embora haja uma tendência a compartimentalizar a vida humana em áreas, normalmente citadas como saúde, intelecto e espírito, sabe-se que todo ser humano é uma criatura completa e essas áreas não são distintas, separadas. Sendo necessário uma compreensão ampla de si mesmo para a satisfação dos anseios “da alma”. O conselheiro cristão cumpre esse papel sem as limitações impostas por profissionais no exercício de suas funções em ambientes não favoráveis ao pensamento religioso. Muitas pessoas sentem uma liberdade maior em ir até seu pastor e buscar palavras de conforto do que no consultório psicológico. É claro que uma coisa não substitui a outra e nem se pretende isso.
+
+De certa forma, o aconselhamento psicológico e espiritual são dependentes, ou, nos termos da autora, possuem “uma interdisciplinaridade de disciplinas vizinhas” em relação aos casos em que “ambos os domínios científicos são estritamente ligados”, “uma interdisciplinaridade de problemas” em relação a dificuldades que “não se inscrevem no campo de uma única disciplina e cujas dimensões exigem serem resolvidos por mais de uma disciplina.”
+
+Descreve ainda:
+
+> <cite>  
+> a interdisciplinaridade de métodos se dá quando a metodologia utilizada por uma disciplina pode ser igualmente aplicada aos fins de pesquisa de outras disciplinas.</cite>
+
+> <cite>A interdisciplinaridade de conceitos ocorre quando os modelos e os conceitos elaborados no interior de uma disciplina são aplicados a outra disciplina para complementar pesquisas ou para substituir os modelos e conceitos nela existentes.</cite>
+
+No artigo estudado “Um resumo das técnicas de aconselhamento de Jesus” (RAUFF, 1956) é descrito a maneira usual de Cristo ao dirigir-se as pessoas revelando-lhes os anseios da alma, algumas vezes sem que elas mesmas tomassem conta disso. Jesus podia distinguir quais metáforas e parábolas serviriam ao autoconhecimento do seu ouvinte, alcançando-lhe onde e da maneira que estivesse. Claramente percebemos que a capacidade que Jesus tinha de “perscrutar” o coração do seu ouvinte era um dom do Espírito. Algo que não é adquirido com prática ou estudo. Entretanto, também compreendemos que o mesmo Espírito que auxiliava o Filho de Deus em sua jornada neste mundo, está disponível a nós, acessível pela misericórdia de Deus através da fé.
+
+Permeando os artigos lidos, percebe-se uma tendência a profissionalização psicológica para o aconselhamento espiritual, mas, apesar do relacionamento intrínseco entre as áreas, é notável que os objetivos do conselheiro espiritual são diferentes. Jesus queria salvar as pessoas, ao próximo. Não fazer-lhe sentir-se bem. A prática do aconselhamento cristão deve ter essa ênfase, esse foco. A salvação de almas, resgatadas pelo poder de Cristo.
+
+Referências Bibliográficas:
+
+PEREIRA, Leideline Cristina. **INTERFACE ENTRE O ACONSELHAMENTO PSICOLÓGICO E O ACONSELHAMENTO ESPIRITUAL**. 2009. Dissertação (Mestrado em Psicologia Clínica) - Pontifícia Universidade Católica de São Paulo, São Paulo, 2009. Disponível em: https://sapientia.pucsp.br/bitstream/handle/15887/1/Leidilene%20Cristina%20Pereira.pdf. Acesso em: 1 abr. 2024.
+
+RAUFF, Edward A., "A Study of Jesus' Counseling Techniques with Individuals in the Gospel of St John. Chapters Three and Four" (1956).Bachelor of Divinity. 470. https://scholar.csl.edu/bdiv/470

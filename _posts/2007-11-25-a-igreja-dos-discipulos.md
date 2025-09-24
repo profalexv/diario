@@ -1,0 +1,81 @@
+---
+id: 287
+title: 'A Igreja dos Discípulos'
+date: '2007-11-25T20:49:08-03:00'
+author: alexluza
+layout: post
+guid: 'http://alexandre.pro.br/?p=120'
+permalink: /a-igreja-dos-discipulos/
+categories:
+    - 'Diário Cristão'
+tags:
+    - Sermão
+---
+
+## A igreja dos discípulos (esboço de sermão)
+
+### O NASCIMENTO DA IGREJA
+
+#### Qual a razão para existência da Igreja?
+
+Pregar? Ensinar? Curar? Para que? #### Qual o momento do nascimento da igreja cristã?
+
+Pentecostes? Grande Comissão? Mateus 28:16-20 Entender o cristianismo é ensina-lo. <div>### DISCIPULADO
+
+O QUE É SER UM DISCÍPULO? O QUE É SER UM MESTRE? NEM TODOS OS DISCÍPULOS SE TORNAVAM MESTRES NENHUM DOS DISCÍPULOS DE JESUS FOI CHAMADO MESTRE FORAM CHAMADOS CRISTÃOS( de modo pejorativo, indicava que imitavam a Cristo em tudo o que faziam) E APÓSTOLOS (enviados/missionários). Atos 11:26 Discípulos chamados cristãos. Atos 2:42 E perseveravam na doutrina dos apóstolos, e na comunhão, e no partir do pão, e nas orações. Lucas 17:5 – Disseram então os apóstolos ao Senhor: Acrescenta-nos a fé. </div><div>***(as próximas sessões são baseadas no livro Discípulos Modernos, de Russel Burrill)***#### INCRÉDULOS E A GRANDE COMISSÃO
+
+Mateus 28:17 Os que duvidaram foram incumbidos de pregar. A bíblia indica claramente que entre os discípulos haviam alguns com dúvidas. Talvez todos estivessem em algum grau com dúvidas, entretanto, a esses foi incumbido a missão de pregar, de ensinar, de ser igreja. Discípulo nesse contexto, é todo aquele que tenha reconhecido em algum momento a Cristo como seu Salvador. Mateus 28:18 afirmativamente, positivamente, imperativamente. Anteriormente, em Mateus 16:13 Ele havia perguntado. Afirmamos ser a igreja remanescente, no contexto de Apocalipse 12:17, indica que aceitamos e incorporamos a Grande Comissão: Mateus 28:19 – Marcos 16:14-18 – Lucas 24:47-49 – Atos 1:5-9 > *“Israel recebeu a comissão de criar uma comunidade atenciosa que refletisse o Deus verdadeiro. A nação foi posta na encruzilhada das civilizações, de onde atrairia outros povos para que esses aprendessem do Deus verdadeiro…Isso revela uma principal diferença de missão entre Israel e a igreja. A igreja de Jesus não deveria ser organizada com base no modelo do Antigo Testamento, mas numa ordem nova. Deveria ser organizada para o bem do cumprimento da missão de Cristo, que é fazer discípulos de todas as nações.”…*
+
+> *“A maioria das igrejas (…) entende muito bem como operar a igreja reunida, mas pouco faz para ensinar os membros a serem a igreja dispersada. Entendemos a imagem de “fortaleza”aplicada à igreja, mas falhamos em entender sua imagem “de sal”… A igreja não é o prédio – é o povo. Portanto, onde as pessoas da igreja estiverem, aí estará a igreja.” …*
+
+> *“Alguns têm sugerido que a ênfase deveria estar no “fazer discípulos”em vez de no “ide”. (pág 15 a 17).*
+
+No exemplo do povo de Israel, essa ênfase não produziu o efeito esperado, justificando o porquê de Jesus ordenar incisivamente “IDE”. Mas como foi interpretado esse “IDE” pelos primeiros cristãos? Como viviam os cristãos da primeira igreja? Atos 2:42-47 > *“A raiz da missão de Cristo reside na Grande Comissão; não no derramamento do Espírito, no Pentecostes, como alguns pentecostais argumentam. 8 A obra do Pentecostes sem a autoridade da Grande Comissão seria sem sentido. A obra da igreja como povo missionário de Deus está fundamentada na Grande Comissão. O poder para a igreja cumprir a Grande Comissão baseia-se na promessa do Espírito inerente à Grande Comissão e derramado inicialmente por ocasião do Pentecostes.”…*
+
+</div><div>> “*O Espírito Santo é dado para o cumprimento da Grande Comissão. Ele não é um fim em Si mesmo – serve o Cristo ressuscitado, capacitando Sua igreja para cumprir a Grande Comissão. O Espírito jamais pode assumir o lugar de Cristo ou da Palavra, Ele só pode testemunhar de Cristo. Com isso, não estamos depreciando o Espírito Santo – apenas indicando Sua função. Um dos perigos que ameaçam o adventismo atualmente é a tentativa de permitir que o Espírito autentique o que é certo na missão e na prática. O risco aqui é que um espírito falso pode estar operando. Devemos avaliar o Espírito pela Palavra eterna. Somente quando sujeitamos nossa teologia e prática ao teste da Palavra revelada é que podemos estar seguros. Quando o Espírito é autenticado pela Palavra de Deus, Ele pode capacitar a igreja a cumprir a missão de Cristo como retratada na Grande Comissão.” (pág 19 e 20)*
+
+#### O QUE É UM DISCÍPULO
+
+> *“Uma das grandes contribuições do movimento atual de crescimento da igreja tem sido sua ênfase em fazer discípulos. Na realidade, Donald McGavran, fundador desse movimento, abriu caminho quando começou a enfatizar mais o fazer discípulos do que a nutrição de cristãos existentes. McGavran dividiu o discipulado em duas fases: fazer discípulos (o ato inicial de levar pessoas a Cristo) e aperfeiçoamento (desenvolvimento dos crentes). Essa divisão não é bíblica e resulta em confusão sobre o produto final da missão. O resultado inevitável é uma depreciação do discipulado.”…* (citado por Burrill em seu texto, de Donald A. McGavran, Understanding Church Growth – Compreendendo o Crescimento de Igreja \[Grand Rapids: Eerdmans, 1990, pág 123\])
+
+> *“A pergunta que precisa ser respondida é: Quanto contato com Cristo alguém deve ter antes que possa ser legitimamente chamado de Seu discípulo? As implicações dessa definição afetam nossa prática de evangelismo. Se aceitarmos a definição de McGavran de “discípulo”, nossa estratégia evangelística deverá girar em torno de levar pessoas a Cristo. Depois, nos preocuparemos em lhes dar instrução completa. Se a definição bíblica de discípulo , contudo, envolver mais do que um reconhecimento inicial de Cristo, então essa estratégia necessita prover informação suficiente para levar o novo converso ao discipulado, como Jesus o compreendia.”…*
+
+> *“Se você está tentando facilitar para que as pessoas com quem você fala digam “sim” à sua mensagem como um grupo, como você consegue evitar dizer sim à identidade incrédula delas e ser fiel ao evangelho, no modo como você expõe a pergunta?”…*(citado por Burrill, a partir de John H. Yoder, The Challenge of Church Growth – O Desafio do Crescimento da Igreja, \[Scottdale,PA: Herald Press, 1973, pág 40\])
+
+> *“Não articulamos claramente o que significa ser um discípulo no sentido que Jesus o compreendia. Para muitos adventistas, discipulado simplesmente significa aceitar as vinte e oito crenças fundamentais da igreja. Mas isso é realmente discipulado?”… (pág 19-26)*
+
+O vocábulo discípulo é a tradução do termo grego *mathetes.* Indica um tipo especial de aluno que está unido ao professor com o objetivo de acompanha-lo, conhece-lo fora das salas de aula. Sua intimidade, seu dia-a-dia. Indica relacionamento , aprendizado, sujeição. > *“Essa compreensão da palavra discípulo , conforme usada na época do Novo Testamento, nos ajuda a entender melhor as palavras da Grande Comissão: **discipular, batizar, ensinar** “...<u>O discípulo nunca é totalmente </u><u>discipulado, mas está sempre nesse processo.</u>“…*
+
+> *“A palavra discípulos ilustra alunos sentados ao redor de um professor, mais do que penitentes ajoelhados num altar – um processo educacional, mais do que um evento evangelístico; uma escola, mais do que um reavivamento.”…*
+
+> *“Porém, elas o fazem através de sólida educação sobre a vida e os ensinamentos de Cristo; e não de uma compreensão superficial do que significa ser cristão. Essa compreensão da palavra discípulo evita que pessoas se dirijam a Cristo por atacado, sob impulso repentino, sem um processo educacional apropriado.”…*
+
+> *““Discípulo” (matheteusate) no imperativo aorístico é o verbo explicativo que resume todas as responsabilidades missionárias. Então, os outros dois verbos no gerúndio “batizando” e “ensinando” (repare na similaridade da estrutura: baptizontes e didaskontes) particularizam os dois objetivos do discipulado: o batismo, objetivo do evangelismo; o ensino, meio de educar… O discipulado atinge seu primeiro objetivo no “ato definitivo do batismo e é continuado através da contínua atividade do ensino”… Assim a Grande Comissão diz aos cristãos tanto o meio de iniciação (batismo) quanto o meio de continuação (os ensinamentos de Jesus).”* (citado por Burrill, a partir de Frederick Dale Bruner, Matthew, vol 2, The Churchbook, \[Dallas: Word, 1990, pág 1102\]). (pág 22 a 28)
+
+### COMO SE TORNAR UM DISCÍPULO
+
+> *“As pessoas devem ser batizadas quando atingirem a fase inicial do discipulado. Nessa altura, elas são discípulos; porém, não completamente maduros. Por isso Jesus sugere que nós os batizemos – esses discípulos iniciais – e que continuemos ensinando-lhes num modelo contínuo de discipulado.”…*
+
+Mateus 10: 24 e 25 Lucas 14: 26, 27 e 33 > *“Se Ele acreditava em conversões em massa a Seus ensinos, com essa declaração, deu uma resposta muito imprópria e desanimadora para as multidões. Há um custo em se seguir a Jesus. Ele não quer seguidores indiferentes – deseja indivíduos totalmente comprometidos.”…*
+
+> *“Tornar-se discípulo, Jesus declara, é estar disposto a levar “Sua cruz”. Observe que não é a “minha cruz”, mas a “Sua cruz”. Geralmente, os crucificados eram escravos, ou aqueles acusados dos mais terríveis crimes. Eles carregavam suas próprias cruzes até o lugar da crucifixão. Com freqüência, eram odiados e desprezados pela sociedade. Desse modo, levar a cruz é fazer exatamente o que Jesus fez quando Ele levou a cruz – suportar sem queixas ou lamentações o olhar de reprovação de amigos e parentes; agüentar a repreensão, com paciência e humildade. Para ser discípulo é preciso estar disposto a levar a “Sua cruz”. O discípulo une-se a Cristo em Seus sofrimentos. Ninguém pode receber honra maior.” (pág 28 a 30)*
+
+> > *“Tal prática na igreja local significa que os crentes descobriram seus dons e encontraram seu ministério no corpo da igreja. A tragédia do adventismo contemporâneo é que desenvolvemos uma igreja cheia de membros que não foram discipulados. Portanto, poucos estão envolvidos em algum tipo de ministério.”…*
+
+Em o Desejado de Todas as Nações, pág 195 encontramos a declaração de Ellen G. White: “*Todo verdadeiro discípulo nasce no reino de Deus como um missionário”.*João 8:31 a 33 João 14: 6 João 13:34 João 15: 8 > 1. *“Discípulo é alguém que está disposto a suportar perseguição e ridículo pelo nome de Cristo. Tal discípulo mantém atitude de aprendiz, facilitando o ensino.*
+> 2. *“Discípulo é alguém que vive em completa submissão ao senhorio de Cristo, estando disposto a deixar tudo – bens, família, amigos – pela causa de Cristo.*
+> 3. *“Discípulo é alguém que entende e guarda os ensinamentos básicos de Jesus.*
+> 4. *“Discípulo é alguém que deu evidências de que o amor ágape foi encontrado em sua vida por causa de sua ligação com Cristo.*
+> 5. *“Discípulo é alguém que está produzindo frutos ao criar outros discípulos para Jesus.” (pág 34 e 35)*
+
+> *“Quando congregações missionárias se virem como o povo de Deus, elas podem ter que mudar sua definição de ordenação. Quando os discípulos de Jesus são confirmados como membros do corpo de Cristo, eles devem reconhecer que nessa confirmação há uma ordem para ministrar na igreja e no mundo. A ordenação é a separação, por parte do povo, daqueles que irão equipar, motivar, e mobilizar os membros para o ministério e a missão. De certa forma, a ordenação separa aqueles que assistirão os membros na confirmação do seu chamado como o povo missionário de Deus.”* (citado por Burrill, em pág 38 e 39, a partir de Charles Van Eegen, God’s Missionary People: Rethinking the Purpose of the Local, O Povo Missionário de Deus: Repensando o Propósito da Igreja Local \[Grand Rapids: Bakerr Book House, 1991, página 152\])
+
+### WESLEY E WHITFIELD
+
+<div>Concluo relatando as histórias desses dois grandes missionários evangelistas da reforma, do qual trancrevo o texto na íntegra de Burrill, nas páginas 81 a 83.</div><div></div>> “O adventismo deve retornar às suas raízes Wesleyanas. Wesley e Whitfield pregaram na mesma época. Ambos foram evangelistas de sucesso, porém muitos dos conversos de Whitfield não permaneceram, enquanto os de João Wesley floresceram. A diferença se encontra em suas metodologias evangelísticas. Whitfield levava seus ouvintes somente à aceitação de Cristo, enquanto João Wesley se concentrava em envolver os conversos nas reuniões de classes onde pudessem ser transformados em discípulos Raramente (se é que alguma vez) ele convidou pessoas a aceitarem a Cristo e se tornarem cristãos no ato. … Mais freqüentemente, ele convidava as pessoas a se unirem à classe – às vezes uma classe nova que iria se reunir naquela noite. “Já que Wesley procurava fazer discípulos, seu método estava mais em harmonia com a Grande Comissão do que o método de Whitfield. A compreensão adventista de missão está muito mais em harmonia com Wesley do que com Whitfield. Esse é um dos motivos do espantoso crescimento do adventismo. Através dos anos, temos enfatizado o discipulado como base para se tornar membro em vez de uma simples aceitação de Cristo. Por isso temos conseguido conservar a colheita que Deus nos enviou mais do que aquelas igrejas que não têm enfatizado o discipulado. Agora, porém, estamos cada vez mais ameaçados com a perda de conversos. Quanto mais ênfase colocarmos na aceitação de Cristo como base para se tornar membro e quanto menos ênfase colocarmos no discipulado radical, maior será o número de pessoas que deixarão de permanecer na igreja. Isso é resultado direto da atual metodologia evangelística adventista, que coloca menos ênfase no discipular. Começamos a seguir o caminho de Whitfield em vez do de Wesley. “Meu irmão Wesley agiu sabiamente. As almas despertadas pelo seu ministério foram reunidas em classes, e assim ele preservou os frutos de seu trabalho. Isso eu negligenciei, e meu povo é um cordão de areia”. (Citado em Ayling, 1979, pág. 201).
+
+> “O adventismo é wesleyano em sua compreensão de evangelismo. A atual tendência é esquecer nossas raízes wesleyanas e mudarmos para uma compreensão de evangelismo calvinista de Whitfield. Por causa da teologia calvinista de Whitfield, ele achava que uma vez que as pessoas aceitassem a Cristo, elas estavam predestinadas a serem salvas. Portanto, havia pouco o que fazer na área do discipulado, uma vez que essas pessoas já faziam parte dos remidos. Essa teologia não devemos copiar. Somente ao nos concentrarmos em fazer discípulos radicais é que podemos cumprir a missão de Cristo, dada aos discípulos originais e mais elaborada na mensagem especial de Apocalipse 14 – as três mensagens angélicas – essa mensagem especial da Igreja Adventista do Sétimo Dia.
+
+> “É imperativo que a igreja adventista retorne a um modelo de igreja que faz discípulos, se realmente leva a sério o cumprimento de sua missão, como foi delineada em Apocalipse 14:1-12 e Mateus 28:16-20.”
+
+</div>

@@ -1,0 +1,48 @@
+---
+id: 351
+title: 'A IGREJA NO PERÍODO ANTEDILUVIANO'
+date: '2019-12-29T11:24:44-03:00'
+author: alexluza
+layout: post
+guid: 'http://alexandre.pro.br/?p=351'
+permalink: /a-igreja-no-periodo-antediluviano/
+categories:
+    - 'Diário Cristão'
+    - 'Igreja no Velho Testamento'
+---
+
+### Inicia-se o processo de “*religare”*
+
+Logo após a ocorrência da queda, o pecado torna-se parte integral do ser humano. Conquanto cremos pela descrição bíblica que Adão e Eva não se tornaram seres malvados, com demonstrações de crueldade como logo se tornariam seus descendentes, viram na natureza, no ambiente e no seu próprio interior uma radical mudança. O medo, a ansiedade, a tristeza e a morte, entre outros sentimentos e acontecimentos negativos passaram a fazer parte de seu quotidiano. A inocência perdida levou para sempre a plenitude e a felicidade.
+
+Neste contexto, o Ser Divino que lhes visitara diariamente no período pré-lapsariano fala-lhes de um plano projetado nas câmaras celestiais para reconciliação, para restauração. Uma condição melhor do que a anterior, uma vez antes da queda a inocência tinha um quê de ignorância, condição esta explorada pela mente perversa do tentador para instigar-lhes a curiosidade: “...s*ereis como Deus, conhecedores do bem e do mal”.* Enquanto a restauração traria uma condição de liberdade consciente e pureza.
+
+O ser perverso que tentara o casal no Éden não possui uma descrição clara e completa no relato da queda. Nada é dito sobre sua preexistência ou origem, nem tampouco sobre qual sua motivação.
+
+O que conhecemos desse ser maligno e seus anjos vem de relatos posteriores dados em visões proféticas. Entretanto, uma vez que cremos ser Moisés o autor do texto de Gênesis e também do livro de Jó, sendo esse último escrito antes mesmo do relato da criação, podemos afirmar que havia um bom entendimento de quem se tratava e porque tentara a humanidade, sendo que ele não explica quem seja Satanás, apenas relata os fatos, podemos deduzir que seu público também conhecia bem essa história, para que o relato não necessitasse mais explicações.
+
+Podemos dizer que a religião anterior a Moisés funcionava de forma oral, sendo os relatos e histórias da criação, queda, dilúvio e dos patriarcas passados de pai para filhos, de geração a geração. Embora haja nuances variadas dessas histórias, podemos encontrá-las em muitas culturas ao redor do mundo, na maioria delas com elementos comuns umas as outras, demonstrando haver um precedente histórico real.
+
+Ao aceitarmos o conceito de inspiração do texto bíblico, ao analisarmos como Deus conduziu sempre um remanescente a manter acesa a chama da verdade, cremos que Deus permitiu que Moisés tivesse contato com o relato verdadeiro, tanto durante os doze anos em que cresceu com sua família, ou durante os vinte e oito anos seguintes nas cortes egípcias ou ainda os quarenta em que conviveu com um sacerdote familiar no deserto, de forma que Deus inspirou-lhes a selecionar e escrever para as gerações posteriores um relato fiel e verdadeiro do princípio. Toda essa história será tratada no capítulo que trata da IGREJA NO DESERTO.
+
+Em todo o momento, desde esse distante princípio, encontramos na bíblia Deus buscando o homem e oferecendo-lhe uma oportunidade de salvação. Na maioria das vezes o homem é movido pela algum princípio moral remanescente em seu íntimo, que permite que Deus o alcance, mas nunca pela iniciativa humana. Deus busca a reconciliação. Não o homem. Adão e Eva esconderam-se naquela tarde. Logo a seguir Adão estava usando Eva para acusar a Deus como responsável: “*a mulher que me deste”* e Eva usaria a serpente como a mesma intenção de responsabilizar a Deus “*a serpente a qual criaste”.*
+
+Assim, podemos redefinir o termo religião “*religare”* e afirmar que é a iniciativa divina de resgatar o homem, ou seja, é Deus quem constrói a ponte, nunca o homem.
+
+### O sistema sacrifical
+
+Naquela mesma tarde após a queda, Deus visita o casal, busca-o para próximo de Si mais uma vez e lhes expõe as tristes consequências do pecado e de uma vida longe dEle. Como a fonte divina de vida, fá-los perceber o inevitável resultado da separação como a cessação da vida. A morte, até então desconhecida no Éden é condição irremediável para um mundo em pecado, separado. O homem criado como ser supremo neste mundo entrega o domínio do mesmo de forma gratuita ao usurpador, a Satanás. O homem compreende a magnitude do fato e tenta justificar-se em seus méritos diante de Deus, acusando o próprio doador da vida de responsável por haver criado seres capazes de levar ao pecado.
+
+Esse grito humano de justificação própria ecoa as declarações satânicas nas hostes celestiais, quando Lúcifer andava a instigar em outros seres angelicais a culpabilidade de Deus e de sua lei a qual ninguém poderia cumpri-la por que, segunda alegava, feriria lhes os direitos concedidos de livre-arbítrio. Ou seja, Lúcifer insistia que o livre-arbítrio não era de fato livre, que Deus impedia-lhes exercer plenamente esse direito, impondo leis e regras enquanto lhes declarava uma falsa liberdade.
+
+Nunca compreenderemos com as informações que temos como originou-se o pecado em Lúcifer. Muitos são tentados em todos os tempos a culpar a Deus pela permissão da sua existência ou de não eliminá-lo ou neutralizá-lo logo que foi manifesto. A Lúcifer e seus anjos foi oferecido uma chance de retratação, de “*religare”*, uma forma de religião angelical, onde esses anjos poderiam voltar a sua posição inicial diante de Deus ou permanecer ao lado de Satanás. Creio ter havido um grupo, senão a maioria, que ficou ao lado de Lúcifer com muitas dúvidas. Dúvidas sobre a veracidade das declarações de Lúcifer e dúvidas sobre as declarações divinas. Dúvidas sobre si mesmos, se haviam tomado a decisão correta. Creio que alguns desses, enquanto lhes foi permitido tenham retornado a presença de Deus, e alguns mesmo sem ter respondido suas indagações interiores.
+
+Ainda do outro lado, dentre aqueles que não atenderam as afirmações satânicas, um grupo de seres angelicais permanecia na presença divina sem contudo haver plenamente compreendido as implicações de tudo o que estava ocorrendo. Vez ou outra suas hábeis mentes permitia-lhes navegar pelas dúvidas das alegações de Lúcifer e de sua retórica bem elaborada.
+
+Principalmente para esclarecer a esse último grupo de seres, creio que Deus preferiu permitir que Lúcifer, seus anjos e as consequências de sua insistente separação dEle prosseguissem e alcançassem esse novo mundo. A humanidade também seria exposta a possibilidade de pecado e se atendessem ao tentador seriam igualmente separadas de Deus para provar-lhe a autenticidade da liberdade ofertada por Deus.
+
+Desde o princípio vemos Satanás insistentemente afirmando que Deus não permitirá a manifestação completa da punição do pecado: *“É certo que não morrereis”.* Satanás, nas diversas versões da falsa religião que tem se esforçado por disseminar tende a declarar que há um possível mal entendido entre seres divinos e que no final eles se acertarão, permitindo que todos os seres sejam restabelecidos a plenitude. Ou seja, Satanás insistentemente declara que Deus permitirá que as criaturas mesmo separadas dEle usufruam da vida que dEle emana. Em versões distintas e variadas, declara que como Deus é amor, todos serão salvos, independente de suas atitudes ou preferências.
+
+Satanás se esforça desde esse início por turvar o entendimento humano do plano da redenção. Deus em sua sabedoria instituiu uma forma didática, porém real, para ensinar-lhe o preço e forma da redenção. Creio que para Adão e Eva deve ter havido uma significação muito dolorosa e forte em buscar um cordeirinho, pô-lo em uma pilha de lenha e, então, levantar um cutelo de pedra e ferir-lhe propositalmente.
+
+Esse ato repleto de significados aflorariam nesse homem que viveu em um mundo perfeito e sem morte uma infinidade de emoções que lhe fariam compreender a magnitude do seu ato diante do universo e ainda a magnitude dos atos de Deus na busca pela reconciliação, pela “*religare”.*

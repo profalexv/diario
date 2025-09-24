@@ -1,0 +1,27 @@
+---
+id: 204
+title: 'Os cuidados com visitantes em nossa Escola Sabatina'
+date: '2017-08-18T09:26:23-03:00'
+author: alexluza
+layout: post
+guid: 'http://alexandre.pro.br/?p=204'
+permalink: /os-cuidados-com-visitantes-em-nossa-escola-sabatina/
+categories:
+    - 'Escola Bíblica'
+tags:
+    - 'Compilação Ellen G. White'
+    - 'Conceitos Escola Sabatina'
+    - 'Seminário para Professores'
+---
+
+```
+Ninguém deve ser tratado com desprezo. Não deve existir farisaísmo nem justiça própria.
+```
+
+### Os cristãos de outras igrejas
+
+Não torneis secas e desanimadas as lições da Escola Sabatina. Gravai nas mentes que a nossa regra de fé é a Bíblia, e a Bíblia só, e não as palavras e os feitos humanos. As crianças devem apreender uma grande lição, isto é, que precisam libertar-se de cada partícula de egoísmo e hipocrisia. Ensinai-lhes que Cristo morreu para salvar os pecadores e que devemos trabalhar com grande ternura e paciência pelos que não são de nossa fé, pois essas pessoas são preciosas à vista de Deus. Ninguém deve ser tratado com desprezo. Não deve existir farisaísmo nem justiça própria. Entramos em contato com muitos cristãos verdadeiros que não são de nossa fé, mas que vivem de acordo com a melhor luz que possuem. Esses desfrutam de maior favor de Deus do que os que têm mais luz, mas não progridem pela prática de obras correspondentes. ### Espírito de tolerância
+
+Uma vez os discípulos encontraram um homem que fazia uma obra em nome de Cristo. Relatando o caso a Jesus, disse João: “Nós lho proibimos, porque não nos segue.” Marcos 9:38. Jesus, porém, o repreendeu e disse a Seus seguidores: “Quem não é contra nós é por nós.” Marcos 9:40. O Caminho, a Verdade e a Vida se revelarão claramente nas palavras, espírito e comportamento dos que crêem em Jesus e dEle aprendem. Pais e professores devem manifestar o mais terno interesse e simpatia pelos que não crêem na verdade. Não devem nunca, por palavras ou obras, ferir uma alma comprada pelo sangue de Cristo. Se os mais velhos se mostram frios e severos, as crianças manifestarão o mesmo espírito e seu caráter não será moldado segundo o modelo divino. É preciso educar pacientemente as crianças e os jovens a reconhecerem que Deus quer que sejam missionários, que não devem ser egoístas, mesquinhos e hipócritas, mas amplos nas idéias e simpatias. Se todos trabalharem em amor, manifestando cortesia cristã, serão ganhadores de pessoas e apresentarão ao Mestre preciosos molhos. ### Buscar padrão mais elevado
+
+Uma coisa é certa: tanto na igreja como na Escola Sabatina, existe muito pouco espírito de amor entre os adventistas do sétimo dia. Obreiros e alunos têm um alvo muito baixo. Todos precisam ter mais amplas, elevadas e santas aspirações e respirar uma atmosfera mais pura. De nossas Escolas Sabatinas devem sair moços e moças que se tornem missionários de Deus. Necessitam receber a melhor instrução e preparo religioso. Precisam daquela virtude que vem de Deus, juntamente com o conhecimento que os qualificará para cargos difíceis e de responsabilidade. O crescimento intelectual deve ser tão notável como o desenvolvimento das forças físicas. O jovem deve sentir a necessidade de ser forte e competente, tanto intelectual como espiritualmente. Muitos falham em adquirir esse poder, não porque lhes falte a capacidade, mas por não se dedicarem com resoluto e diligente esforço. Devem aproveitar o máximo possível suas oportunidades, a fim de serem capazes de levar os encargos e partilhar das responsabilidades dos que estão cansados e sobrecarregados. A mais importante obra missionária é preparar obreiros que, no campo, preguem o evangelho a toda criatura. — Testimonies on Sabbath School Work, 32-34. Compilação disponível em https://escolasabatina.com.br/cuidado-com-visitantes-na-hora-da-licao em 18/08/2017

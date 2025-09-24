@@ -1,0 +1,181 @@
+---
+id: 430
+title: 'Gestão ambiental nas pequenas e médias empresas na região de Joinville'
+date: '2006-12-31T18:22:20-03:00'
+author: alexluza
+layout: post
+guid: 'http://alexandre.pro.br/?p=89'
+permalink: /gestao-ambiental-nas-pequenas-e-medias-empresas-na-regiao-de-joinville/
+categories:
+    - Pedagogia
+tags:
+    - Acadêmico
+---
+
+> **Texto apresentado na disciplina de Eduacação Ambiental da faculdade de Pedagogia da Univille. Juliana Bento**<sup>*[1](http://www.alexandre.pro.br/?p=90#sdfootnote1sym)*</sup>**, Mariluci Neis Carelli**<sup>**[2](http://www.alexandre.pro.br/?p=90#sdfootnote2sym)**</sup>
+
+Resumo: Esta pesquisa tem como objeto de estudo a gestão ambiental das pequenas e médias empresas, e como a sociedade se beneficia com este processo adotado pelos empresários da região de Joinville. Deste modo, o foco desta pesquisa é discutir a inserção dos procedimentos de gestão ambiental nas pequenas e médias empresas da região de Joinville. A metodologia de pesquisa adotada é de natureza quantitativa e exploratória, realizada a partir de uma pesquisa de campo com 194 empresas entrevistadas. Neste sentido a pesquisa revela a urgente necessidade de capacitar e orientar para a realização de um planejamento adequado à natureza das pequenas e médias empresas, em relação ao meio ambiente.
+
+Palavras-Chave: *Desenvolvimento Sustentável, Competitividade, Pequenas e Médias Empresas.*
+
+**1. Introdução**
+
+Esta pesquisa tem como objeto de estudo a gestão ambiental das pequenas e médias empresas, e como a sociedade se beneficia com este processo adotado pelos empresários da região de Joinville.
+
+Neste sentido é tácita a necessidade de um novo modelo de sociedade, uma nova visão de mundo, de um novo paradigma, o qual se designa como ecodesenvolvimento e anos mais tarde desenvolvimento sustentável. (CAPRA, 2000; SACHS, 1986; MORIN, 2003).
+
+Esta concepção de desenvolvimento parte de iniciativas governamentais, que prevê a adoção de políticas de preservação dos recursos naturais, com o objetivo de preservar e recuperar o meio ambiente, a liberdade e expressividade, assim como garantir a qualidade de vida necessária para as presentes e futuras gerações com direito a saúde, educação, alimentação, vestuários, entre outros.
+
+Deste modo, o foco desta pesquisa é discutir a inserção dos procedimentos de gestão ambiental nas pequenas e médias empresas da região de Joinville. Nesta linha, destaca-se a problemática deste estudo, caracterizada pelas dificuldades enfrentadas pelos empresários das pequenas e médias empresas em conseguir implantar um Programa de Gestão Ambiental ou de obter a certificação ISO 14000, e como esta questão, muitas vezes, impossibilita sua inserção em um mercado competitivo.
+
+A metodologia de pesquisa adotada é de natureza quantitativa e exploratória, realizada a partir de uma pesquisa de campo com 194 empresas entrevistadas na região Joinville, o qual 58 corresponde a empresas de pequeno porte e 26 de médio porte, as demais correspondem às micros e grandes empresas.
+
+Neste sentido são delineadas a partir de um universo de 327 indústrias, adotando como referência os registros fornecidas pela FIESC, e através da aplicação de um questionário serão mostrada as atividades realizadas pelas empresas investigadas, assim como seus anseios e dificuldades em atender a legislação ambiental.
+
+**2. Revisão de literatura**
+
+Durante o século XX inúmeras transformações ocorrem no sistema econômico e ambiental brasileiro, partindo de uma modelo extremamente capitalista, que buscava a magnificência do homem maximizando a lucratividade das empresas através de uma utilização predatória dos recursos naturais.
+
+Constata-se que neste século ainda existe a idéia do homem como uma máquina, mas a necessidade de transformação nesta forma de pensar decorre da conscientização do homem em preservar os recursos naturais para garantir a sobrevivência das presentes e futuras gerações.
+
+Neste mesmo século é apresentado pela primeira vez o termo externalidade pelo economista Pigou (s.d.e), (apud MONTIBELLER FILHO, 2001), para demonstrar os problemas decorrentes das falhas de mercado e apresentar possíveis soluções para os mesmos.
+
+Como exemplo pode ser citada a degradação do meio ambiente, considerada como uma externalidade negativa porque este processo promove a destruição das reservas naturais, atingindo impiedosamente as presentes e futuras gerações. A título de exemplificação, constata-se que a poluição era considerada uma falha nos mecanismos de mercado.
+
+Fatores como estes possibilitaram a primeira revolução ambientalista ocorrida na década de 60, a favor da preservação do meio ambiente. Neste sentido o crescimento quantitativo e mecanicista vem sendo substituído pelo desenvolvimento qualitativo que parte de um desenvolvimento voltada à preservação das reservas naturais adotando uma visão sistêmica, ou seja, não fragmentando o sistema.
+
+Nas palavras de Capra (1982, p.14): “um novo ‘paradigma’ – uma nova visão da realidade, uma mudança fundamental em nossos pensamentos, percepções e valores”.
+
+Essa nova filosofia esteve presente na Conferência de Estocolmo-72 quando foi inserido o termo ecodesenvolvimento abordado em larga escala pelo economista Ignacy Sachs (2002).
+
+A partir das idéias elaboradas sobre o ecodesenvolvimento, surge o conceito desenvolvimento sustentável na década de 80, apresentado pela CMMDA – Comissão Mundial sobre Meio Ambiente e Desenvolvimento (1988, p.46) na Comissão Brundtland (Relatório Nosso Futuro Comum) como “aquela que atende as necessidades do presente, sem comprometer a possibilidades das gerações futuras atender as suas próprias exigências”.
+
+Todavia, é de grande importância mencionar que o desenvolvimento sustentável está presente nas propostas governamentais, segundo Rebelo (2005, p.2): “Dede o início este governo se propôs a fazer grandes reformas e a traçar planos necessários para criar o ambiente mais favorável para o desenvolvimento sustentado do nosso país”.
+
+Neste sentido cabe ressaltar a participação das empresas neste novo cenário, tornando-se uma ferramenta de competitividade adotada pelos empresários, o qual proporciona o crescimento econômico e tecnológico de maneiro sustentável, a partir do novo modelo, o qual deixa de ser uma instituição econômica para ser uma instituição sóciopolítico.
+
+Segundo Donaire (1995, p.1995):
+
+Na visão tradicional da empresa como instituição apenas econômica, sua responsabilidade consubstancia-se na busca da maximização dos lucros e na minimização dos custos e pouco, além disso. Os aspectos sociais e políticos que influenciam o ambiente dos negócios não são considerados variáveis significantes e relevantes na tomada de decisões dos administradores, e as repercussões que as decisões internas possam acarretar no contexto sóciopolítico tem pouco significado para a cúpula das empresas.
+
+O autor demonstra como era o antigo modelo adotado pelas empresas, lembrando que ainda existe está concepção principalmente nas pequenas e médias empresas, que não possuem recursos financeiros para a implantação de um programa de gestão ambiental, ou até mesmo a falta de conhecimentos necessários de como preservar o meio ambiente.
+
+Nos dias atuais a adoção de um programa de gestão ambiental é necessário para garantir a sobrevivência de uma empresa no mercado, já certificação ISO 14000 é um referencial de competição interna e externa dependendo do segmento.
+
+Os custos para implantação da ISO 14000 é elevado, tornando muitas vezes inviável para empresas de pequeno e médio porte, que além de não possuir capital, também não recebem incentivos governamentais, e possuem grandes dificuldades em conseguir atender a legislação ambiental.
+
+Neste sentido na sessão seguinte serão apresentados os resultados e discussões da pesquisa realizada nas 129 empresas entrevistadas na cidade de Joinville.
+
+**3. Apresentação e discussão dos resultados**
+
+A partir deste momento serão apresentados os resultados obtidos em relação aos procedimentos adotados pelas empresas, assim como suas dificuldades. Neste sentido o gráfico 01 demonstra as empresas que possuem programa de gestão ambiental.
+
+A – Possui Programa de Gestão Ambiental
+
+B – Não possui Programa de Gestão Ambiental, no momento.
+
+C – Pretende implantar Programa de Gestão Ambiental nos próximos 3 anos
+
+Gráfico 01 – Programa de Gestão Ambiental
+
+Fonte: Pesquisa Campo, 2004 – 2005.
+
+Como pode ser observado no gráfico 01 existe um grande número de empresas que ainda não possuem um programa de gestão ambiental, principalmente nas pequenas empresas com um percentual equivalente a 90,24%, as quais muitas vezes não sabem nem o que significa este termo, já nas empresa de médio porte, nota-se uma mudança neste processo, podendo ser caracterizado pela sua participação no mercado competitivo, que na maioria das vezes exige maiores cuidados com a preservação do meio ambiente.
+
+Deste modo é importante apresentar os principais procedimentos adotados pelas empresas em relação aos cuidados com o meio ambiente.
+
+A – Redução do uso de matéria-prima ou substituição de fonte de energia
+
+B – Redução do uso de energia e de água (conservação, recuperação ou reciclagem) por quantidade de produtos fabricados
+
+C – Mudanças na composição, designer do produto ou da embalagem para tornar menos danoso à saúde humana e ao meio ambiente
+
+D – Controle, recuperação dos gases ou reciclagem das descargas líquidas da atividade industrial
+
+E – Controle de ruídos e vibrações
+
+F – Disposição adequada de resíduos sólidos ou lixo da atividade industrial
+
+G – Reciclagem ou aproveitamento de sucatas, resíduos ou refugos
+
+H – Mudanças nos procedimentos de estocagem, transporte, manuseio, distribuição e disposição final dos produtos ou materiais perigosos e suas embalagens
+
+I – Cursos ou treinamentos da mão-de-obra
+
+J – Dar preferência a fornecedores/distribuidores que não tem imagem ambiental negativa.
+
+Gráfico 02 – Procedimentos gerenciais ambientais realizados nas pequenas e médias empresas
+
+Fonte: Pesquisa de Campo, 2004 – 2005
+
+O gráfico nº 02 apresenta um elevado percentual em relação à reciclagem ou aproveitamento de sucatas, resíduos ou refugos, principalmente nas empresas de pequeno porte, o que se destina a redução de custos, fator fundamental para sobrevivência dessas empresas no mercado. Já nas empresas de médio porte este procedimento também é significante, mais não com tanta intensidade, notando que a disposição adequada de resíduos sólidos ou lixo da atividade industrial, apresenta-se em um patamar de igualdade em relação à alternativa “F”.
+
+A – Tratamento de efluentes líquidos e gasosos do processo produtivo
+
+B – Disposição final estocagem e transporte de resíduos e refugos do processo produtivo
+
+C – Transporte e distribuição de produto
+
+D – Utilização final do produto
+
+E – Reduzir vibrações e ruídos
+
+F – Conscientização ambiental dos funcionários e pessoal em geral
+
+G – Não há dificuldades
+
+H – Falta de legislação Ambiental
+
+Gráfico 03 – A maiores dificuldades em atender a Legislação Ambiental
+
+Fonte: Pesquisa de Campo, 2004 – 2005
+
+De acordo com o gráfico 03 tanto para as empresas de pequeno e médio porte não apresentam dificuldades em atender aos procedimentos ambientais exigidos pela fiscalização, mas conforme pesquisa realizada com as empresas situadas na cidade de Joinville percebe-se grandes controvérsias em relação às respostas, o qual torna este percentual de equivocado com 38,35% das pequenas e 31,42% nas empresas de médio porte.
+
+A – Continuar com aplicações de multas quando do não atendimento da legislação ambiental
+
+B – Abolir os atuais mecanismos de controle e cobrar das empresas que não cumprem o padrão ambiental definido, uma taxa ou imposto por nível de carga de poluição ou uso de recursos naturais
+
+C – Abolir os atuais mecanismos de controle e distribuir para as empresas cotas de geração de cargas poluidoras ou de uso de recursos naturais
+
+D – Divulgar cadastros de empresas com boas práticas ambientais
+
+E – Simplificar a regulamentação ambiental
+
+F – Criar incentivos fiscais para investimentos ambientais
+
+G – Ampliar as linhas de crédito subsidiado para investimentos ambientais
+
+H – Optou em não responder
+
+Gráfico 04 – Expectativa dos Instrumentos Governamentais de Ação e Política Ambiental
+
+Fonte: Pesquisa de Campo, 2004 – 2005
+
+No gráfico 04 é possível identificar que as empresas não possuem apoio financeiro do governo para realização de procedimentos ambientais, os quais despendem de valores elevados utilizando recursos próprios. Salientando que a presença do governo se torna um instrumento de multas e punições, os quais muitas vezes seus próprios fiscais desconhecem a legislação ambiental, não existindo uma política de prevenção mais sim uma política de arrecadação de verbas para o governo. Conforme relatam os empresários nas alternativas “E”, “F” e “G” com índices equivalente a 60% das pequenas empresas e 67,53% das médias a participação do governo é insatisfatória.
+
+**4. Considerações finais**
+
+Com esta pesquisa é possível concluir que as empresas de pequeno e médio porte enfrentam grandes dificuldades oriundas da falta conhecimento sobre a questão ambiental, constatou-se isso a partir da existência de controvérsias nas respostas em relação à gestão ambiental. Outro fator significativo é a carência de recursos para investimentos nesta área, percebe-se o descaso do governo em relação a estes empresários, que procuram atender a legislação com recursos próprios e escassos para não sofrerem as penalidades da lei. Essa prática gera um circulo vicioso não promovendo a consciência ambiental necessária à competitividade. Nesse contexto todos perdem a empresa, o governo e, principalmente, a sociedade. A pesquisa revela a urgente necessidade de capacitar e orientar para a realização de um planejamento adequado à natureza das pequenas e médias empresas, em relação ao meio ambiente.
+
+Salientando outro fator significativo que é a geração de empregos, o qual em grande escala é provido pelas empresas de pequeno e médio porte, mesmo nessas circunstâncias o governo não se preocupa em atender as necessidades dos empresários que poderiam tanto aumentar o número de funcionários como sua lucratividade, através de uma política de conscientização, ética e respeito com a sociedade e o meio ambiente.
+
+**5. Referências**
+
+CAPRA, Fritjof. **O Ponto de mutação**: a ciência, a sociedade e a cultura emergente. São Paulo: Cultrix, 1982.
+
+CMMAD. **Nosso futuro comum**. Rio de Janeiro: Fundação Getúlio Vargas, 1988.
+
+DANAIRE,Denis. **Gestão ambiental na empresa**. São Paulo: Atlas, 1995.
+
+MONTIBELLER-FILHO, Gilberto. **O mito do desenvolvimento sustentável**: meio ambiente e custos sociais no moderno sistema produtor de mercadorias. Florianópolis: UFSC, 2001.
+
+MORIN, Edgar. Por uma reforma do pensamento. **O Correio Unesco**. v.24, n.134, p.17. Mar 1996.
+
+SACHS, Ignacy. **Caminhos para o desenvolvimento sustentável**. Rio de Janeiro: Garamond, 2002.
+
+<div id="sdfootnote1">1 Acadêmica do curso de Ciências Econômicas, bolsista de iniciação cientifica da UNIVILLE
+
+2 Orientadora, professora do Departamento de Comercio Exterior da UNIVILLE
+
+</div>

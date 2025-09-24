@@ -1,0 +1,25 @@
+---
+id: 217
+title: 'Instrumento Ganhador de Almas'
+date: '2017-11-01T09:50:07-03:00'
+author: alexluza
+layout: post
+guid: 'http://alexandre.pro.br/?p=217'
+permalink: /instrumento-ganhador-de-almas/
+categories:
+    - 'Escola Bíblica'
+tags:
+    - 'Compilação Ellen G. White'
+    - 'Conceitos Escola Sabatina'
+    - 'Seminário para Professores'
+---
+
+Com o coração cheio de gratidão pelo amor de Deus, deve o professor trabalhar terna e fervorosamente pela conversão de seus alunos.
+
+### O mais elevado objetivo
+
+O objetivo da Escola Sabatina deve ser a conquista de almas. A ordem do trabalho pode ser irrepreensível; as instalações, tudo quanto se possa desejar; mas se as crianças e jovens não forem levados a Cristo, a escola será um fracasso, pois, a menos que as pessoas sejam atraídas a Cristo, tornam-se mais e mais incapazes de serem influenciadas por uma religião formal. O professor deve cooperar ao bater à porta do coração dos que necessitam de auxílio. Se os alunos atendem à influência do Espírito e abrem a porta do coração para que Jesus possa entrar, Ele lhes abrirá o entendimento para compreenderem as coisas de Deus. É simples o trabalho do professor, mas se for feito no Espírito de Jesus, a operação do Espírito de Deus o tornará profundo e eficiente. Deve-se fazer muito mais trabalho pessoal na Escola Sabatina. A necessidade dessa espécie de atividade não é reconhecida e apreciada como deveria ser. Com o coração cheio de gratidão pelo amor de Deus, deve o professor trabalhar terna e fervorosamente pela conversão de seus alunos. ### Salvação pessoal, depois serviço
+
+Que evidência podemos dar ao mundo de que o trabalho da Escola Sabatina não é mera pretensão? Será julgado pelos seus frutos. Será estimado pelo caráter e obra dos alunos. Em nossas Escolas Sabatinas devem-se confiar responsabilidades aos jovens, para que desenvolvam sua capacidade e obtenham poder espiritual. Entreguem-se os jovens primeiramente a Deus e depois, já nos princípios de sua vida cristã, sejam ensinados a ajudar os outros. Esse trabalho lhes exercitará as faculdades, habilitando-os a aprender, a planejar e executar seus planos para o bem de seus companheiros. Procurem eles a companhia dos que necessitam de auxílio, não para se entregarem a fúteis conversações, mas para representarem o caráter cristão, para colaborarem com Deus, conquistando os que não se entregaram a Ele. … <div>### Zelo proporcional ao privilégio
+
+Estamos tristemente atrasados em nosso dever de nos esforçarmos por auxiliar a juventude. Possuímos grande luz, mas faltam-nos zelo e fervor proporcionais aos privilégios de que gozamos. Devemos erguer-nos acima da fria atmosfera de descrença que nos rodeia, aproximando-nos de Deus para que Ele Se aproxime de nós. É preciso educar os jovens para trabalharem pela salvação de pessoas; e, ao educá-los para essa obra, aprenderemos também a trabalhar com mais êxito, tornando-nos instrumentos eficientes nas mãos de Deus. Para a conversão de nossos alunos. Devemos estar possuídos do espírito de trabalho fervoroso, apegando-nos a Cristo e reivindicando-O como nossa única eficiência. Ampliemos nossa mente para termos uma adequada compreensão das coisas que dizem respeito à vida eterna. Nosso coração deve ser abrandado e subjugado pela graça de Cristo, para que nos tornemos verdadeiros educadores. Indaguem os superintendentes e professores: Creio eu na Palavra de Deus? Estou eu me entregando Àquele que Se deu por mim, sofrendo a cruel morte de cruz, para que eu não perecesse, mas tivesse a vida eterna? Cremos nós que Jesus está atraindo as pessoas ao nosso redor, mesmo as impenitentes que não Lhe correspondem a esse poder que atrai? Com o coração contrito, dizei então: “Senhor, eu atrairei com toda a força de minha influência, eu atrairei outros a Ti. Confio em Ti, e só em Ti, para tocar e subjugar o coração pelo poder do Espírito Santo.” — Testimonies on Sabbath School Work, 47-50. Compilação disponível https://escolasabatina.com.br/instrumento-ganhador-de-almas em 01/11/2017. </div>

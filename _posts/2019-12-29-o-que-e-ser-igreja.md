@@ -1,0 +1,30 @@
+---
+id: 347
+title: 'O que é ser Igreja?'
+date: '2019-12-29T11:22:00-03:00'
+author: alexluza
+layout: post
+guid: 'http://alexandre.pro.br/?p=347'
+permalink: /o-que-e-ser-igreja/
+categories:
+    - 'Diário Cristão'
+    - 'Igreja no Velho Testamento'
+---
+
+### Reformulações e atualizações dos modelos bíblicos e históricos de ser “igreja”
+
+As concepções do que é ser uma igreja tem sido alteradas periodicamente, conforme o envoltório cultural e temporal de cada fase histórica da humanidade. Desde o modelo patriarcal ao teocrático, destacando uma nação jeovista étnica e um novo modelo eclesiástico apostólico e depois ao modelo de igreja de estado ou imperial, para finalmente uma igreja nos moldes atuais, de livre adesão, composta por pessoas que tenham alguma afinidade no seu próprio entendimento teológico.
+
+Essas mudanças de conceitos de religiosidade implícitas na resposta dada a pergunta “o que é ser igreja” frequentemente tem sido motivadora de profundas alterações nas relações e comportamentos humanos, alterando desde o ideal doméstico e familiar, até significativas políticas atribuídas ou impostas a diferentes povos em tempos distintos, causando mudança estrutural da sociedade, desencadeando guerras sem fim, substituições de instituições constituídas, destacados líderes carismáticos que podem conduzir ao verdadeiro evangelho ou afastando definitivamente deste caminho.
+
+Aliás, neste ponto insurge uma pergunta que precisa ser respondida no interior de cada crente professo: O que mesmo vem a ser o “verdadeiro evangelho”? Algumas perguntas secundárias acompanham esse raciocínio: Como avaliar o “evangelho” e saber se esse é de fato a verdade? Uma vez que eu tenho o método de teste correto, como fazer com que esse evangelho torne-se o meu modo de vida a fim de cumprir seu propósito? É meu dever divulgá-lo? Se sim, como fazê-lo no contexto do século XXI sem me tornar um mero adepto propagandista de uma forma institucionalizada de pensamento? Se esse evangelho tem um instituição/igreja que tenha sido responsabilizada por Deus para sua pregação, como devo me relacionar com ela?
+
+No texto a seguir procuro levantar histórica e biblicamente os diversos modelos de ser da igreja, desde os primórdios até o moderno conceito de igreja institucionalizada atual. A análise sugere um retorno a essência desse conceito, no âmbito mais particular possível, tornando a família como a igreja de fato, para então destacar a simplicidade da organização litúrgica e clerical oferecida na bíblia, deveras diferente dos complexos departamentos e ministérios que movem qualquer igreja hoje, sem contudo eliminar o papel desses na exposição e preservação do evangelho tido como verdadeiro.
+
+Quase todo o conteúdo teológico e eclesiológico depende de conceitos desenvolvidos ao longo de várias eras, tendo cada geração deixado uma herança anterior para a seguinte, a qual redefine, remolda, engloba os novos conceitos no conteúdo recebido e encaminha para a geração seguinte.
+
+Assim, muito dos conceitos de igreja que temos na atualidade é recursivo a uma era sem as possibilidades de intercambialidade e comunicação que temos hoje. O processo de estudo e pesquisa era muito mais introspectivo e filosófico. O processo de conceituação e alteração de pensamento acontecia de forma mais lenta, porém, mais radical, mais agressiva. As pessoas se envolviam plenamente naquilo que julgavam ser de importância vital. Não havia uma clara distinção entre o campo das ideias e o mundo material. Assim, tão logo a pessoa reconhecesse algo como verdade, passaria a viver aquilo. Esse cenário possibilitou que em praticamente todas as culturas e períodos houvessem uma imposição religiosa através dos governantes, fazendo com que em todo o mundo religião e política fossem tratados como uma coisa só.
+
+Em algum momento bem específico da era moderna o cenário cristão protestante criou a condição para separar, ao menos nominalmente, a religião da política, tornando qualquer igreja ou religião uma instituição separada, o que ao longo do percurso de quase dois séculos culminou por engedrar essas instituições religiosas por um caminho quase totalmente comercial, dominado por todos os recursos de marketing usados para vender produtos e ideias, transformando a declarada missão da igreja numa forma de fazer propaganda da denominação a qual estou filiado.
+
+Neste ínterim creio ser necessário revisar as diferentes concepções históricas de igreja como povo de Deus e analisar como o crente moderno pode atingir maturidade cristã, sendo fiel a verdade e a Deus, que nada tem a ver com essa cristianismo mercadejante atual.

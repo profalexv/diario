@@ -1,0 +1,74 @@
+---
+id: 292
+title: 'A vida devocional do Remanescente'
+date: '2018-08-18T11:24:55-03:00'
+author: alexluza
+layout: post
+guid: 'http://alexandre.pro.br/?p=292'
+permalink: /a-vida-devocional-do-remanescente/
+categories:
+    - 'Diário Cristão'
+tags:
+    - 'Compilação Ellen G. White'
+    - 'Estudo Coletivo'
+---
+
+## Vida Dupla
+
+"Nesta época, pouco antes da segunda vinda de Cristo nas nuvens do céu, deve ser efetuada uma obra como a de João \[Batista\]. Deus Chama homens que preparem um povo para permanecer em pé no grande dia do Senhor. ... Para transmitir tal mensagem como a de João precisamos ter uma experiência espiritual como a sua. A mesma obra precisa ser efetuada em nós. Temos de contemplar a Deus e, contemplando-O, perder de vista o próprio eu." *Testemonies, vol. 8, págs 332 e 333.*
+
+"A comunhão com Deus refletir-se-á no caráter e na vida. Os homens conhecerão em nós, como nos primeiros discípulos, que estivemos com Jesus. Eis o que dá ao obreiro um poder que nada mais será capaz de lhe comunicar. Jamais devemos permitir ser privados de tal poder. *Carecemos de viver uma vida dupla **- vida de pensamento e de*** **ação.**" *A Ciência do Bom Viver, pág 512.*
+
+"Oração e esforço, esforço e oração serão a ocupação da vossa vida. Deveis orar como se a eficiência e o louvor fossem todos atribuíveis a Deus e labutar como se o dever fosse todo vosso." *Testemonies, vol. 4, pág 538.*
+
+"Ninguém, sem oração, se encontra livre de perigo durante um dia ou uma hora que seja." *O Grande Conflito, pág 530."*
+
+"**Aquele que nada faz senão orar, em breve deixará de o fazer.**" *O Caminho a Cristo, pág 101.*
+
+## Firmemente fundados em Cristo
+
+"A Tempestade vem, a tempestade que há de provar a fé de todo homem. Os crentes devem estar agora firmemente arraigados em Cristo, do contrário serão extraviados por algum aspecto do erro." *Evangelismo, pág 361.*
+
+"Far-nos-ia bem passar diariamente uma hora a refletir sobre a vida de Jesus." *O Desejado de Todas as Nações, pág 83.*
+
+## A Necessidade de Estudar a Bíblia
+
+"Nenhum coração renovado poderá ser conservado em estado de aprazibilidade sem a aplicação diária do sal da Palavra.
+
+A graça divina deve ser diariamente recebida. Do contrário homem algum permanecerá convertido." *Nossa Alta Vocação (Meditações Matinais 1962) pág 213.*
+
+"***Os cristão devem estar-se preparando para aquilo que logo irá cair sobre o mundo como terrível surpresa, e esta preparação deve ser feita mediante diligente estudo da Palavra de Deus e pelo levar a vida em conformidade com os seus preceitos**" Profetas e Reis, pág 626.*
+
+"Pessoa alguma, a não ser os que fortaleceram o espírito com as verdades da Escritura, poderá resistir no último grande conflito." *O Grande Conflito, pág 593.*
+
+"Edificai um muro de passagens bíblicas ao vosso redor, e vereis que o mundo não poderá demoli-lo. Entesourai as Escrituras na memória e retrucai então a Satanás quando ele vier com as suas tentações. ***Está Escrito:* Foi dessa maneira que nosso Senhor enfrentou as tentações de Satanás e resistiu a elas." *Review and Herald, 10 de abril de 1888.""*
+
+"Chegará o tempo em que muitos serão privados da Palavra escrita. Se, porém, essa Palavra é gravada na memória, ninguém poderá tira-la de nós." *Manuscript Release 760, 24.*
+
+## O Exemplo de Enoque
+
+"Enoque andou trezentos anos com Deus antes de sua transladação ao Céu, e a situação do mundo não era então mais favorável ao aprimoramento do caráter cristão do que hoje. E como Enoque andava com Deus? **Habituou a mente e o coração a sempre sentirem que ele se achava na presença de Deus,** e quando estava perplexo, suas orações acendiam a Deus, para que o guardasse.
+
+Ele recusava tomar alguma decisão que ofendesse a seu Deus, mantinha o Senhor continuamente diante de si. Orava: ***Ensina-me o Teu caminho, para que eu não erre. Qual é o Teu desejo a meu respeito? Que farei para honrar-Te, meu Deus?* Assim que ele moldava constantemente a vontade e as atitudes de acordo com os mandamentos de Deus.
+
+Devemos perguntar a nós mesmos: ***Para o que estamos vivendo e trabalhando? E qual será o resultado de tudo isso?***" *The Signs of the Times, 21 de novembro de 1892.*
+
+"Não nos podemos permitir viver sem nos referirmos ao dia do juízo; pois ainda que muito retardado, está agora próximo, mesmo as portas e se apressa muito. Breve a trombeta do arcanjo fará estremecer os vivos e despertará os mortos." *Orientação da Criança, págs. 560 e 561.*
+
+## Preparados Para a Volta de Cristo
+
+"Se não encontramos prazer agora na contemplação das coisas celestes; se não temos nenhum interesse em buscar o conhecimento de Deus, deleite algum em deter os olhos no caráter de Cristo, se a santidade não tem nenhuma atração para nós - podemos então estar certos que é vã nossa esperança do Céu. A perfeita conformidade com a vontade de Deus, é o elevado objetivo a estar sempre diante do cristão.
+
+***Terá prazer de falar acerca de Deus, de Jesus, do lar puro e bem aventurado que Cristo preparou para os que O amam.*"** *Testemunhos Seletos, vol. 2, págs. 342 e 343.*
+
+"Se hoje estais em paz com Deus, estais preparados para receber a Cristo se viesse hoje." *Nos Lugares Celestiais (Meditações Matinais, 1968) pág. 227.*
+
+## Olhemos para o que na frente
+
+"É ouvida pelo povo de Deus uma voz clara e melodiosa dizendo: ***Olhai para cima*** (Lucas 21:28); e levantando os olhos para o Céu, contemplam o arco da Promessa. As nuvens negras, ameaçadoras, que cobriam o firmamento se fendem e, como Estevão, olham fixamente para o Céu, e vêem a glória de Deus e o Filho do Homem sentado sobre o Seu trono. Divisam em sua forma divina os sinais de Sua humilhação; e de Seus lábios ouvem o pedido, apresentado ante Seu Pai e os santos anjos. ***Aqueles que me deste quero que, onde Eu estiver, também eles estejam comigo* (João 17:24). Novamente se ouve uma voz melodiosa e triunfante dizendo: ***Eles vêm! Eles vêm! Santos, inocentes e incontaminados. Guardaram a palavra da Minha paciência; andarão entre os anjos";*** e os pálidos, trêmulos lábios dos que mantiveram firme a fé, proferem um brado de vitória.
+
+## Nosso futuro próximo
+
+"Diante da multidão de resgatados está a santa cidade. Jesus abre amplamente as portas de pérola e as nações observaram a verdade, ali contemplam o Paraíso de Deus, o lar de Adão em sua inocência. Então aquela voz, mais harmoniosa do que qualquer música que tenha soado já aos ouvidos mortais, é ouvida a dizer: ***Vosso conflito está* *terminado. Vinde, benditos de Meu Pai, possuí por herança o reino que vos está preparado desde a fundação do mundo!*** Cumpre-se então a oração do Salvador por Seus discípulos: ***Aqueles que Me deste quero que onde Eu estiver também eles estejam comigo*.**
+
+O grande conflito terminou. Pecado e pecadores não mais existem. O Universo inteiro está purificado. Uma única palpitação do harmonioso jubilo vibra por toda a vasta criação. Daquele que tudo criou emanam vida, luz e alegria por todos os caminhos do espaço infinito. Desde o minúsculo átomo até ao maior dos mundos, todas as coisas animadas e inanimadas, em sua serena beleza e perfeito gozo, declaram que Deus é amor.

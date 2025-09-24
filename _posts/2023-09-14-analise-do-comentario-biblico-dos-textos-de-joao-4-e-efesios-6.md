@@ -1,0 +1,81 @@
+---
+id: 533
+title: "Análise do comentário bíblico dos textos de João 4 e\_ Efésios 6.\_"
+date: '2023-09-14T14:34:15-03:00'
+author: alexluza
+layout: post
+guid: 'http://alexandre.pro.br/?p=533'
+permalink: /analise-do-comentario-biblico-dos-textos-de-joao-4-e-efesios-6/
+categories:
+    - 'Diário Cristão'
+    - Universidade
+tags:
+    - Acadêmico
+    - Sermão
+---
+
+**Análise do comentário do texto bíblico de João 4**
+
+O texto lido e estudado aborda exaustivamente o conteúdo encontrado na bíblia, sobretudo analisando as línguas originais e as regras de escrita da época, criando um cenário o mais fidedigno possível, haja visto o conhecimento limitado sobre costumes e cultura da época. É importante observar que o autor do texto bíblico (João) escreve em um contínuo, como um discurso, uma aula ou ensinamento, apresentando uma sequência em seu texto, iniciando o tema “batismo” no capítulo 1, no capítulo 2 apresenta a água transformada em vinho, amplia o tema no encontro com Nicodemos (capítulo 3), abordando novo nascimento e retoma o assunto batismo no capítulo 4, de forma a apresentar o conjunto como uma sequencia didática e crescente. Obviamente a sequência de João não irá parar por aqui, sendo esperado uma ampliação dos tópicos envolvidos nos capítulos seguintes, tais como o segundo milagre realizado em Caná. A anotação de João de que Jesus não batizava, apenas seus discípulos, parece apontar para o envolvimento desses na pregação do Batista, enquanto Jesus desenvolvia seu próprio ministério valendo-se desses pregadores e seus conversos.
+
+Enfim, nesse contexto, abordado aqui de forma simplificada, mas bastante extenso no texto lido, podemos compreender melhor a posição do relato do encontro com os samaritanos na narrativa do apóstolo, quando ele apresenta a “água viva” como solução para as angústias e necessidades humanas. Ainda é curioso observar que João não relata a história do batismo de Jesus, apesar de várias referencias à “água”, “água da vida”, “nascer de novo”, “água que jorra para vida eterna” e outras. O texto do comentário segue abordando palavra por palavra, deixando detalhes intrigantes sobre termos traduzidos em português que atribui significado ligeiramente diferente do original, alterando o sentido ou importância desses termos.
+
+O texto bíblico tem seu clímax no pedido da mulher samaritana “Senhor, dê-me dessa água” e a declaração cristológica “EU SOU que falo contigo”, demonstrando a necessidade humana da água outorgada por Cristo, que leva o ser humano a navegar pelas “águas que fluem por debaixo dos umbrais da porta da casa” em Ezequiel 47:1-12.
+
+Há ainda que ser pontuado a estrutura quiástica dos pontos centrais do texto, deixando claro tratar se de uma literatura com finalidade didática, para ser decorada e recitada, os diversos pontos comparativos da narrativa entre os samaritanos e judeus e sua relação com a fé em um Deus vivo e presente.
+
+Logo em seguida, observamos Jesus levando a mulher a olhar para si, sua vida e compreender a pecaminosidade de sua experiência, enquanto a vida lhe é oferecida como um refrigério, Cristo a incita a tornar-se uma missionária, mesmo antes de sua total compreensão, quiçá, antes de tomar consciência de sua conversão e justificação. A ordem de buscar seu marido é repleta de pontos reflexivos sobre a vivência humana e sua condição pecaminosa. A história de todo samaritano pode ser espelhada na vida da mulher, que, por fim, tenta argumentar com Jesus sobre questões doutrinárias e doxologias, o qual reprime e demonstra que o encontro real com Deus acontece não em um local prederminado ou circunstâncias calculadas, mas em “Espírito e Verdade”.
+
+“...o novo templo é identificado com Jesus como a morada do Espírito da vida e como a fonte de água viva. Como temos enfatizado ao longo do tempo, este tema foi iniciado no Batismo de Jesus, quando o Espírito desceu e permaneceu sobre ele (Jo 1,32-33). Jesus torna-se, portanto, o lugar do Espírito e a fonte do Espírito como dom ("Ele é quem deve batizar com o Espírito Santo", οὕτός ἐστιν ὁ βαπτίζων ἐν πνεύματι ἁγίῳ, Jo 1:33). Além disso, a descida do Espírito sobre Jesus capacita João a saber que Jesus é "o Filho de Deus" (Jo 1,34). Recepção do Espírito e status como Filho são dois aspectos da mesma coisa (cf. Jo 1:12-13; Rm 8:12-15).” (Comentário)
+
+O chamado da mulher samaritana culmina com seu testemunho a todos os samaritanos. Enquanto ela vai a cidade, há uma o registro de uma cena de diálogo entre Jesus e seus discipulos sobre a comida e bebida que teria nutrido o Senhor enquanto estavam fora, cujas referências no comentário são bastante enriquecedoras, como segue:
+
+“"Minha comida é que eu faça a vontade daquele que me enviou e leve seu trabalho a bom termo" (Jo 4,34). Que a missão de Jesus é realizar a vontade de seu Pai é uma reivindicação comum e difundida no Evangelho de João.2 Tais palavras de Jesus são indicações de que a história de Jesus, como narrada no Evangelho de João, é contada a partir da perspectiva do Getsêmani. Segundo os relatos sinóticos, Jesus orou: "Meu Pai, se for possível, deixai passar de mim este cálice \[de sofrimento\]; exceto não como eu quero, mas como vós quereis" (Mt26,39). Como a narrativa da paixão demonstra, a vontade do Pai era que seu Filho sofresse, e na narrativa da paixão a vontade do Pai se tornou a vontade do Filho. O Evangelho de João é dito a partir da perspectiva do consentimento do Filho à vontade do Pai. No relato de João no Getsêmani, Jesus rejeita a tentativa de força mal concebida de Pedro e diz palavras que expressam sua aceitação filial da vontade do Pai: "O cálice que o Pai me deu, não o beberei eu?" (Jo 18,11; ver também Jo 12,27-28).” (Comentário).
+
+Retornando a cena dos samaritanos, encontramos a declaração, após terem seu próprio encontro com Jesus e ouvirem-no durante dois dias: “...Já não é pelo teu dito que nós cremos; porque nós mesmos o temos ouvido, e sabemos que este é verdadeiramente o Cristo, o Salvador do mundo.” (João 4:42).
+
+Partindo dali, Jesus segue para Galiléia, e a narrativa da cura do filho de um nobre, com uma declaração bem dura de Jesus comparando os judeus com os samaritanos: “Se não virdes sinais e milagres, não crereis.” (João 4:48).
+
+> Típico deste entendimento é Agostinho. Ele acredita que o texto nos apresenta uma distinção entre uma fé baseada apenas na palavra de Cristo e uma fé baseada meramente em maravilhas. A distinção é a que aparece entre os samaritanos, que acreditaram com base na palavra de Jesus (Jo 4,41;cf. Jo 4,50), e estes galileus que, como diz Jesus, acreditam por causa do que viram (Jo 4,45). Fazendo um ponto homilético, diz Agostinho à sua congregação:
+> 
+> Muitos de nós já acreditamos. Que sinais temos visto? Portanto, o que foi feito então \[na história do Evangelho\] retrata isto que está acontecendo agora \[o destino dos judeus\]. Os judeus eram ou são como os galileus; nós somos como aqueles samaritanos. Ouvimos o evangelho; demos o nosso consentimento ao evangelho; cremos em Cristo através do evangelho. Não vimos nenhum sinal, não exigimos nenhum.
+> 
+> Entretanto, como em nossa discussão de Jo 2:23-25, 38 compartilhamos o ceticismo de Thyen em relação a este entendimento. A resposta de Jesus ao oficial não é uma reprimenda de uma fé fraca que busca a segurança de uma prova milagrosa. Ao contrário, correspondendo ao tema da própria declaração de propósito do Evangelho ("sinais ... para que possais crer", Jo 20:30-31),39 a resposta de Jesus é uma "promessa solene e expressão do requisito necessário da fé".40 Thyen refere-se com razão aos "sinais e maravilhas" das hendiadys (σημεῖα καὶ τέρατα, Jo 4:48), que vem da história do êxodo do AT (LXX Ex 7:3-; 11:9-10; Dt 4:34; 7:19; 26:8; Sl 104:5, 27 \[MT/ET 105:5, 27\]):
+> 
+> \[Na história do êxodo\] os "sinais maravilhosos" de Deus são sempre testemunhas
+> 
+> de seu poder salvífico, e Deus concede esses sinais para que a fé possa se enraizar e crescer. No êxodo, como em João, os σημεῖα \["sinais"\] não são ambivalentes porque uma fé baseada neles é insuficiente, mas apenas porque desempenham uma função crítica. Pois, como eles provocam fé em um e dureza e hostilidade em outro, os sinais se dividem e se separam.
+> 
+> No Evangelho de João, os sinais de Jesus e as palavras de Jesus operam com o mesmo propósito: articular e intimista para ouvir e ver a verdade de Jesus como aquele que trabalha a obra de Deus. Os sinais de Jesus tanto escondem como revelam. Eles são capazes de entender mal, e são capazes de discernir a fé. Os sinais de Jesus, portanto, são instâncias do "julgamento" (κρίσις) que é ocasionado pela vinda da Luz ao mundo (Jo 3,19).42 Como o Verbo encarnado (Jo 1,14) o que Jesus diz e o que Jesus faz é "discurso", e este "discurso" ensina quem Jesus é e o que ele faz pela vida do mundo. Assim, o evangelista de modo algum contrasta com os samaritanos e os galileus. Cada um chegou à fé e à confissão de uma maneira determinada por Jesus, o primeiro por sua palavra de ensino, o segundo por seu sinal.
+> 
+> O sinal que Jesus dá ao oficial real é a cura de seu filho. É uma dádiva de vida da ameaça de morte, e a centralidade desta dádiva é expressa pela tripla repetição "seu filho vive" (Jo 4:50, 51, 53). O filho passou da morte para a vida. A cena é profundamente pascal e aguarda com expectativa as palavras de Jesus em Jo 5,21: "Assim como o Pai ressuscita os mortos e os faz vivos, assim também o Filho faz vivos os que quer", e Jo 5,24: "Quem ouve minha palavra e crê naquele que me enviou tem a vida eterna.” (Comentário)
+
+> 
+
+Julgo muito enriquecedor essa analíse, uma vez que convivemos com o discurso homilético dessa passagem, muitas vezes dando pouca enfase a detalhes históricos cruciais na narrativa, enquanto olhamos poeticamente, porém, dencontextualizado para as declarações incríveis descritas. O rigor de uma análise hermeneutica teólogica, acadêmica e metodológica é sem dúvida uma fonte riquíssima para uma compreensão mais completa do quadro todo.
+
+**Análise do texto do comentário bíblico de Efésios 6:10-17**
+
+Por hora não pude desenvolver uma leitura minuciosa do comentário de Efésios 6:10-17, mas de forma bem suscinta observo que o texto é uma análise hermeneutica bastante rigorosa e extensa, dando base a uma gama extensa de possibilidades.
+
+Primeiramente observo o uso de Paulo de uma linguagem metafórica, em uma retórica elaborada, a semelhança de discursos acadêmicos comuns no mundo grego-romano, um discurso de convencimento, mas com forte argumentação.
+
+> “No final de um discurso há comumente um epílogo; na teoria clássica, suas funções primárias são recapitular os pontos que o orador fez e despertar as emoções da audiência para a ação, mas em um breve discurso a recapitulação pode não ser necessária e um resumo friamente racional pode ser prejudicial ao objetivo do orador. O oratório grego, como visto, por exemplo, nos discursos de Demóstenes, tende a atingir seu clímax emocional próximo ao meio de um discurso e termina silenciosa e pensativamente; o oratório romano, como visto em Cícero, é mais frequentemente apaixonado no final.” (Kennedy *apud* Comentário).
+
+E:
+
+> “Lutero: "Cristo de fato o conquistou \[a ele\]. Mas este inimigo não deve ser desprezado, pois ele é o príncipe deste mundo e tem poderosos príncipes no mundo ao seu lado" ("Sermão para o Vigésimo Primeiro Domingo depois da Trindade", 25 de outubro de 1545, AE 58:306; WA 51:70).
+
+> Schnackenburg, Ephesians, 270: A inserção da metáfora da batalha \[na estrutura de Efésios\] está de acordo com seu esforço de imunizar seus leitores cristãos contra as influências de seu ambiente pagão e de ativá-los para uma realização mais determinada de uma existência cristã. Para isso, é necessário manter diante de seus olhos o perigo sempre presente para sua salvação, mas também para lembrá-los do poder de Deus efetivo neles.” (Comentário).
+
+Segue-se uma análise bem detalhada da linguagem utilizada por Paulo e como utiliza as palavras a fazer referência a costumes e cultura judaica e romana.
+
+> “Paulo, assim, volta muito atrás em sua carta, vagando por em seus primeiros ensinamentos para construir a armadura de Deus a partir dos elementos que ele tem vindo a montar cuidadosamente. As peças da armadura não surgem do nada; mas, como aludem à argumentação anterior da carta, lembram aos ouvintes o que lhes foi ensinado e os ajudam a aplicar o ensinamento à sua situação atual na batalha espiritual.” (Comentário)
+
+Incrível perceber detalhes comuns da literatura hebraico, como a estrutura quiástica, envolto em um discurso retórico conforme o uso grego-romano, com linguagens e figuras contextualizadas no envoltório cultural do seu leitor.
+
+> “A inclusão da oração na armadura de Deus é apenas um elemento de uma abordagem popular deste pericope que vê a armadura como parcial ou principalmente ofensiva. Nesta visão, o mandato do cristão de Deus é levar a batalha ao diabo, atacar o mundo pecaminoso ao nosso redor com o Evangelho, invadir o bastião do diabo. Tal abordagem poderia ser apoiada pelas palavras de Jesus a Pedro que "sobre esta pedra edificarei minha igreja, e as portas do inferno não prevalecerão contra ela" (Mt 16,18).166 Da mesma forma, a observação de Cristo no final da missão dos setenta pregadores, "Vi Satanás cair do céu como um raio" (Lc 10,18), de fato implica que o impacto do Evangelho sobre o mundo
+> 
+> inclui a derrota do diabo. Entretanto, estas palavras aos pregadores do Evangelho são distintas da exortação de Paulo aos batizados em Éfeso. Em Éfeso é o diabo e suas forças que estão atacando os cristãos (2:2) e Cristo que tomou a ofensiva contra eles (1:20-21; 4:8). No presente pericope, os verbos são defensivos: "permanecer contra os esquemas do diabo" (6:11); "resistir no dia mau, e assim ... permanecer \[firme\]" (6:13). É o diabo que ataca com "flechas flamejantes" (6:16). E, como ilustraremos abaixo, em comparação com as descrições padrão da armadura antiga, a lista de Paulo da armadura do cristão omite referências a grandes armas ofensivas como flechas, dardos e a longa espada.” (Comentário)
+
+Concluo, dessa forma, enfatizando a importância da leitura do texto bíblico, com rigor teológico, com senso de desvendar o que de fato é dito, uma vez que se trata da conhecida Palavra de Deus, deve ser interpretada da maneira mais fiel possível. Nem de perto qualquer dessa abordagens metodológicas diminui ou altera a compreensão ou beleza do texto, antes, possibilita ao leitor o conhecimento abrangente e real, livre de superstições e paradigmas impróprios ou desconhecidos da intenção do texto original.
