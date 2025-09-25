@@ -1,4 +1,5 @@
 
 name: 'Diário do Professor Alexandre'
 description: ''
-theme: minima
+theme: null
+layouts_dir: _hekyll/_layouts
