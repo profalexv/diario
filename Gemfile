@@ -1,2 +1,3 @@
-# Gemfile para Jekyll com tema whiteglass
+# Gemfile para Jekyll com tema minima
 gem "github-pages", group: :jekyll_plugins
+gem "minima"
