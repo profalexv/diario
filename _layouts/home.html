@@ -1,0 +1,25 @@
+---
+layout: archive
+---
+
+{{ content }}
+
+{% for post in paginator.posts %}
+<article class="list__item">
+  <h2 class="archive__item-title no_toc"><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+  <p class="page__meta"><small>{{ post.date | date: "%d/%m/%Y" }}</small></p>
+  <p class="archive__item-excerpt">{{ post.content | strip_html | truncatewords: 100 }}</p>
+  <p><a href="{{ post.url | relative_url }}" class="btn btn--primary btn--small">Ler mais &rarr;</a></p>
+</article>
+{% endfor %}
+
+{% if paginator.total_pages > 1 %}
+<nav class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path | relative_url }}" class="pagination--pager">&larr; Mais recentes</a>
+  {% endif %}
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path | relative_url }}" class="pagination--pager">Mais antigas &rarr;</a>
+  {% endif %}
+</nav>
+{% endif %}
