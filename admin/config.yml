@@ -2,7 +2,7 @@ backend:
   name: github
   repo: profalexv/diario
   branch: main
-  base_url: https://sveltia-cms-auth.pages.dev
+  base_url: https://sveltia-cms-auth-abc.pages.dev
 
 media_folder: "assets/images"
 public_folder: "/assets/images"
