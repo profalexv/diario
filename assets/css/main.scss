@@ -1,0 +1,16 @@
+---
+# Arquivo de entrada CSS — permite sobrescrever variáveis do Minimal Mistakes
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
+@import "minimal-mistakes";
+
+/* Aumenta a largura máxima do container em todas as páginas */
+.page__inner-wrap,
+#main.wrapper,
+.masthead__inner-wrap,
+.page__footer-follow.social-icons .wrapper {
+  max-width: 1440px;
+}
