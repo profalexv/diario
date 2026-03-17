@@ -1,0 +1,80 @@
+backend:
+  name: github
+  repo: profalexv/diario
+  branch: main
+  base_url: https://sveltia-cms-auth.pages.dev
+
+media_folder: "assets/images"
+public_folder: "/assets/images"
+
+locale: pt
+
+collections:
+  - name: "posts"
+    label: "Posts"
+    folder: "_posts"
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    extension: "html"
+    format: "frontmatter"
+    fields:
+      - { label: "Título", name: "title", widget: "string" }
+      - { label: "Data de Publicação", name: "date", widget: "datetime", format: "YYYY-MM-DD HH:mm:ss ZZ" }
+      - { label: "Layout", name: "layout", widget: "hidden", default: "post" }
+      - { label: "Publicado", name: "published", widget: "boolean", default: true }
+      - label: "Categorias"
+        name: "categories"
+        widget: "select"
+        multiple: true
+        required: false
+        options:
+          - "Acadêmico"
+          - "Câmara de Vereadores"
+          - "Compilação Ellen G. White"
+          - "Conceitos Escola Sabatina"
+          - "Diário Cristão"
+          - "Direção de Escola Sabatina"
+          - "Economia"
+          - "Escola Bíblica"
+          - "Estudo Coletivo"
+          - "Extensão Acadêmica"
+          - "Igreja no Velho Testamento"
+          - "Matemática"
+          - "Meios de Produção"
+          - "Pedagogia"
+          - "Plano de Aulas"
+          - "Política"
+          - "Seminário para Professores"
+          - "Sermão"
+          - "Uniasselvi"
+          - "Universidade"
+          - "Sem categoria"
+      - label: "Tags"
+        name: "tags"
+        widget: "list"
+        required: false
+      - { label: "Conteúdo", name: "body", widget: "markdown" }
+
+  - name: "drafts"
+    label: "Rascunhos"
+    folder: "_drafts"
+    create: true
+    slug: "{{slug}}"
+    extension: "html"
+    format: "frontmatter"
+    fields:
+      - { label: "Título", name: "title", widget: "string" }
+      - { label: "Layout", name: "layout", widget: "hidden", default: "post" }
+      - label: "Categorias"
+        name: "categories"
+        widget: "select"
+        multiple: true
+        required: false
+        options:
+          - "Diário Cristão"
+          - "Pedagogia"
+          - "Universidade"
+          - "Acadêmico"
+          - "Sermão"
+          - "Sem categoria"
+      - { label: "Conteúdo", name: "body", widget: "markdown" }
