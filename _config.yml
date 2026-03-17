@@ -31,10 +31,20 @@ plugins:
   - jekyll-feed
   - jekyll-remote-theme
   - jekyll-seo-tag
-  - jekyll-paginate
+  - jekyll-paginate-v2
 
-paginate: 10
-paginate_path: "/page/:num/"
+pagination:
+  enabled: true
+  per_page: 10
+  permalink: '/page/:num/'
+  sort_field: 'date'
+  sort_reverse: true
+
+autoPages:
+  enabled: false
+
+include:
+  - _pages
 
 # Exclude from processing.
 # The following items will not be processed, by default.
