@@ -1,0 +1,13 @@
+main:
+  - title: "Início"
+    url: /
+  - title: "Diário Cristão"
+    url: /categoria/diario-cristao/
+  - title: "Pedagogia"
+    url: /categoria/pedagogia/
+  - title: "Universidade"
+    url: /categoria/universidade/
+  - title: "Escola Bíblica"
+    url: /categoria/escola-biblica/
+  - title: "Sem categoria"
+    url: /categoria/sem-categoria/
