@@ -2,6 +2,7 @@ backend:
   name: github
   repo: profalexv/diario
   branch: main
+  site_domain: alexandre.pro.br
   base_url: https://sveltia-cms-auth-abc.pages.dev
 
 media_folder: "assets/images"

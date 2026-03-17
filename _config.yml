@@ -23,7 +23,7 @@ email: ""
 description: >-
   Blog pessoal do professor Alexandre.
 baseurl: ""
-url: "https://diario.alexandre.pro.br"
+url: "https://alexandre.pro.br"
 
 # Build settings
 remote_theme: mmistakes/minimal-mistakes
