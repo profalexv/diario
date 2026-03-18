@@ -60,17 +60,30 @@ document.getElementById('btn-pdf').addEventListener('click', function() {
     var totalPages = pdf.internal.getNumberOfPages();
     var pageWidth  = pdf.internal.pageSize.getWidth();
     var pageHeight = pdf.internal.pageSize.getHeight();
+    var pageNumWidth = 25; // largura reservada para "Página X de Y"
+    var sigMaxWidth  = pageWidth - 15 - pageNumWidth - 5; // largura disponível para assinatura
+
     for (var i = 1; i <= totalPages; i++) {
       pdf.setPage(i);
       pdf.setFontSize(7);
       pdf.setTextColor(120);
+
+      var sigText   = 'Diário do Professor Alexandre  ·  ' + url;
+      var pageText  = 'Página ' + i + ' de ' + totalPages;
+      var sigLines  = pdf.splitTextToSize(sigText, sigMaxWidth);
+      var lineH     = 3.5; // altura de linha em mm para fonte 7pt
+      var blockH    = sigLines.length * lineH;
+      var lineY     = pageHeight - 14 + (14 - blockH) / 2 - 1; // centraliza verticalmente na área
+
       // Linha separadora
       pdf.setDrawColor(180);
       pdf.line(15, pageHeight - 14, pageWidth - 15, pageHeight - 14);
-      // Assinatura à esquerda
-      pdf.text('Diário do Professor Alexandre  ·  ' + url, 15, pageHeight - 9);
-      // Número de página à direita
-      pdf.text('Página ' + i + ' de ' + totalPages, pageWidth - 15, pageHeight - 9, { align: 'right' });
+
+      // Assinatura (potencialmente em 2 linhas) à esquerda
+      pdf.text(sigLines, 15, lineY + lineH);
+
+      // Número de página alinhado à direita, na última linha da assinatura
+      pdf.text(pageText, pageWidth - 15, lineY + blockH, { align: 'right' });
     }
   }).save();
 });
