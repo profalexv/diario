@@ -5,7 +5,7 @@
 @charset "utf-8";
 
 /* Sobrescreve variáveis antes de importar o tema */
-$max-width: 1600px;
+$max-width: 100%;
 $right-sidebar-width-narrow: 180px;
 $right-sidebar-width: 220px;
 $right-sidebar-width-wide: 250px;
@@ -13,12 +13,10 @@ $right-sidebar-width-wide: 250px;
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
 @import "minimal-mistakes";
 
-/* Reduz padding lateral em telas grandes */
-@media (min-width: 1280px) {
-  .page__inner-wrap,
-  #main.wrapper,
-  .masthead__inner-wrap {
-    padding-left: 1em;
-    padding-right: 1em;
-  }
+/* Remove padding lateral do container */
+#main.wrapper,
+.masthead__inner-wrap,
+.page__inner-wrap {
+  padding-left: 1.5em;
+  padding-right: 1.5em;
 }
