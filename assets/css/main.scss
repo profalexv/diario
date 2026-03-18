@@ -45,19 +45,37 @@ $right-sidebar-width-wide: 250px;
   .page__share,
   .page__related,
   .page__meta,
+  .page__date,
+  .page__time,
+  .page__read-time,
   .sidebar,
   .pagination,
   nav,
   .greedy-nav,
   .btn-print,
+  button.btn-print,
   .toc,
-  .page__comments {
+  .page__comments,
+  .author__avatar,
+  .author__content,
+  .author__urls-wrapper {
     display: none !important;
   }
 
-  /* Oculta URLs expandidas pelo navegador após links */
-  a::after {
-    content: none !important;
+  /* Suprime URLs que o navegador adiciona após links na impressão */
+  *::after {
+    content: "" !important;
+  }
+
+  /* Restaura ::after apenas para body (rodapé com URL) */
+  body::after {
+    content: "Fonte: " attr(data-print-url) !important;
+    display: block !important;
+    margin-top: 2em;
+    font-size: 8pt;
+    color: #666;
+    border-top: 1px solid #ccc;
+    padding-top: 0.5em;
   }
 
   body {
@@ -70,24 +88,21 @@ $right-sidebar-width-wide: 250px;
     text-decoration: none;
   }
 
-  h1.page__title {
-    font-size: 16pt;
+  /* Título da postagem menor */
+  h1.page__title,
+  .page__title {
+    font-size: 14pt !important;
+    line-height: 1.3 !important;
   }
+
+  /* Cabeçalhos internos do conteúdo menores */
+  .page__content h1 { font-size: 13pt !important; }
+  .page__content h2 { font-size: 12pt !important; }
+  .page__content h3 { font-size: 11pt !important; }
 
   .page__content {
     max-width: 100% !important;
     padding: 0 !important;
     margin: 0 !important;
-  }
-
-  /* Rodapé de impressão com URL da postagem */
-  body::after {
-    content: "Fonte: " attr(data-print-url);
-    display: block;
-    margin-top: 2em;
-    font-size: 8pt;
-    color: #666;
-    border-top: 1px solid #ccc;
-    padding-top: 0.5em;
   }
 }
