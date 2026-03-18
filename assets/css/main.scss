@@ -25,16 +25,17 @@ $right-sidebar-width-wide: 250px;
 .btn-print {
   cursor: pointer;
   margin-bottom: 1em;
-  border: none;
-  background: #0092ca;
-  color: #fff;
-  padding: 0.4em 0.8em;
+  border: 1px solid #aaa;
+  background: transparent;
+  color: #666;
+  padding: 0.3em 0.7em;
   border-radius: 4px;
-  font-size: 0.75em;
+  font-size: 0.7em;
   font-family: inherit;
 }
 .btn-print:hover {
-  background: #007aa3;
+  background: #f0f0f0;
+  color: #333;
 }
 
 /* Impressão: mostra só o conteúdo da postagem */
@@ -54,8 +55,13 @@ $right-sidebar-width-wide: 250px;
     display: none !important;
   }
 
+  /* Oculta URLs expandidas pelo navegador após links */
+  a::after {
+    content: none !important;
+  }
+
   body {
-    font-size: 12pt;
+    font-size: 10pt;
     color: #000;
   }
 
@@ -64,9 +70,24 @@ $right-sidebar-width-wide: 250px;
     text-decoration: none;
   }
 
+  h1.page__title {
+    font-size: 16pt;
+  }
+
   .page__content {
     max-width: 100% !important;
     padding: 0 !important;
     margin: 0 !important;
+  }
+
+  /* Rodapé de impressão com URL da postagem */
+  body::after {
+    content: "Fonte: " attr(data-print-url);
+    display: block;
+    margin-top: 2em;
+    font-size: 8pt;
+    color: #666;
+    border-top: 1px solid #ccc;
+    padding-top: 0.5em;
   }
 }

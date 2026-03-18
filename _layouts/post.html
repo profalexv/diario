@@ -1,5 +1,6 @@
 ---
 layout: single
 ---
-<button class="btn-print" onclick="window.print()">🖨 Salvar como PDF</button>
+<button class="btn-print" onclick="window.print()">Print / PDF</button>
 {{ content }}
+<script>document.body.setAttribute('data-print-url', window.location.href);</script>
