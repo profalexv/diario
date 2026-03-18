@@ -16,6 +16,7 @@ document.getElementById('btn-pdf').addEventListener('click', function() {
     alert('Biblioteca de PDF não carregou. Verifique sua conexão e tente novamente.');
     return;
   }
+  var title = document.querySelector('h1.page__title') || document.querySelector('h1');
   var titleText = title ? title.innerText.trim() : 'postagem';
 
   // Monta o conteúdo: título + corpo + assinatura
