@@ -43,6 +43,7 @@ include:
 
 paginate: 10
 paginate_path: /page:num/
+date_format: "%d/%m/%Y"
 
 author:
   name: "Professor Alexandre"
