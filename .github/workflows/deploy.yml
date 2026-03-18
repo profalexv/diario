@@ -30,7 +30,9 @@ jobs:
       - name: Install pt-BR locale
         run: |
           sudo locale-gen pt_BR.UTF-8
-          sudo update-locale LANG=pt_BR.UTF-8
+          echo "LANG=pt_BR.UTF-8" >> $GITHUB_ENV
+          echo "LC_ALL=pt_BR.UTF-8" >> $GITHUB_ENV
+          echo "LC_TIME=pt_BR.UTF-8" >> $GITHUB_ENV
 
       - name: Setup Pages
         id: pages
