@@ -27,15 +27,18 @@ $right-sidebar-width-wide: 250px;
   margin-bottom: 1em;
   border: 1px solid #aaa;
   background: transparent;
-  color: #666;
-  padding: 0.3em 0.7em;
+  color: #888;
+  padding: 0.3em 0.5em;
   border-radius: 4px;
-  font-size: 0.7em;
+  line-height: 1;
+  vertical-align: middle;
   font-family: inherit;
+  display: inline-flex;
+  align-items: center;
 }
 .btn-print:hover {
   background: #f0f0f0;
-  color: #333;
+  color: #c00;
 }
 
 /* Impressão: mostra só o conteúdo da postagem */
