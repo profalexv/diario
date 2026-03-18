@@ -7,4 +7,10 @@ layout: single
   </svg>
 </button>
 {{ content }}
-<script>document.body.setAttribute('data-print-url', window.location.href);</script>
+<div class="print-footer" id="print-footer"></div>
+<script>
+(function() {
+  var el = document.getElementById('print-footer');
+  if (el) el.textContent = 'Diário do Professor Alexandre  ·  ' + window.location.href;
+})();
+</script>

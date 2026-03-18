@@ -44,8 +44,28 @@ $right-sidebar-width-wide: 250px;
   fill: #c00 !important;
 }
 
+/* Rodapé de impressão (oculto na tela) */
+.print-footer {
+  display: none;
+}
+
 /* Impressão: mostra só o conteúdo da postagem */
 @media print {
+  /* Suprime cabeçalho e rodapé automáticos do navegador */
+  @page {
+    margin: 1.5cm 1.5cm 2.5cm 1.5cm;
+    @top-left   { content: none; }
+    @top-center { content: none; }
+    @top-right  { content: none; }
+    @bottom-left   { content: none; }
+    @bottom-center { content: none; }
+    @bottom-right  {
+      content: counter(page);
+      font-size: 8pt;
+      color: #666;
+    }
+  }
+
   .masthead,
   .page__footer,
   .page__share,
@@ -68,20 +88,29 @@ $right-sidebar-width-wide: 250px;
     display: none !important;
   }
 
-  /* Suprime URLs que o navegador adiciona após links na impressão */
+  /* Suprime URLs que o navegador adiciona após links */
   *::after {
     content: "" !important;
   }
 
-  /* Restaura ::after apenas para body (rodapé com URL) */
+  /* Remove o body::after anterior */
   body::after {
-    content: "Fonte: " attr(data-print-url) !important;
+    display: none !important;
+  }
+
+  /* Rodapé personalizado fixo em todas as páginas */
+  .print-footer {
     display: block !important;
-    margin-top: 2em;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
     font-size: 8pt;
     color: #666;
     border-top: 1px solid #ccc;
-    padding-top: 0.5em;
+    padding: 4pt 0;
+    text-align: center;
+    background: #fff;
   }
 
   body {
