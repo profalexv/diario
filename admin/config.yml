@@ -3,7 +3,7 @@ backend:
   repo: profalexv/diario
   branch: main
   site_domain: alexandre.pro.br
-  base_url: https://sveltia-cms-auth-abc.pages.dev
+  base_url: https://sveltia-cms-auth.profalexv.workers.dev
 
 media_folder: "assets/images"
 public_folder: "/assets/images"
