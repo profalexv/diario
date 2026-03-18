@@ -42,14 +42,8 @@ document.getElementById('btn-pdf').addEventListener('click', function() {
   if (btnInside) btnInside.remove();
   wrapper.appendChild(body);
 
-  var sig = document.createElement('p');
-  sig.style.fontSize = '8pt';
-  sig.style.color = '#666';
-  sig.style.borderTop = '1px solid #ccc';
-  sig.style.marginTop = '2em';
-  sig.style.paddingTop = '0.5em';
-  sig.innerText = 'Diário do Professor Alexandre  ·  ' + window.location.href;
-  wrapper.appendChild(sig);
+  // Remove assinatura do wrapper — será adicionada via jsPDF em cada página
+  var url = window.location.href;
 
   var filename = titleText.toLowerCase()
     .normalize('NFD').replace(/[\u0300-\u036f]/g, '')
@@ -57,11 +51,27 @@ document.getElementById('btn-pdf').addEventListener('click', function() {
     .substring(0, 60) + '.pdf';
 
   html2pdf().set({
-    margin: [15, 15, 20, 15],
+    margin: [15, 15, 22, 15],
     filename: filename,
     html2canvas: { scale: 2, useCORS: true },
     jsPDF: { unit: 'mm', format: 'a4', orientation: 'portrait' },
     pagebreak: { mode: ['avoid-all', 'css'] }
-  }).from(wrapper).save();
+  }).from(wrapper).toPdf().get('pdf').then(function(pdf) {
+    var totalPages = pdf.internal.getNumberOfPages();
+    var pageWidth  = pdf.internal.pageSize.getWidth();
+    var pageHeight = pdf.internal.pageSize.getHeight();
+    for (var i = 1; i <= totalPages; i++) {
+      pdf.setPage(i);
+      pdf.setFontSize(7);
+      pdf.setTextColor(120);
+      // Linha separadora
+      pdf.setDrawColor(180);
+      pdf.line(15, pageHeight - 14, pageWidth - 15, pageHeight - 14);
+      // Assinatura à esquerda
+      pdf.text('Diário do Professor Alexandre  ·  ' + url, 15, pageHeight - 9);
+      // Número de página à direita
+      pdf.text('Página ' + i + ' de ' + totalPages, pageWidth - 15, pageHeight - 9, { align: 'right' });
+    }
+  }).save();
 });
 </script>
