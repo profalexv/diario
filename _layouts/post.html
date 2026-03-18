@@ -9,7 +9,7 @@ layout: single
 
 {{ content }}
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"></script>
+<script src="{{ '/assets/js/html2pdf.bundle.min.js' | relative_url }}"></script>
 <script>
 document.getElementById('btn-pdf').addEventListener('click', function() {
   if (typeof html2pdf === 'undefined') {
