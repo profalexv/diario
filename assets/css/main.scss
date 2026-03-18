@@ -40,6 +40,9 @@ $right-sidebar-width-wide: 250px;
   background: #f0f0f0;
   color: #c00;
 }
+.btn-print:hover svg {
+  fill: #c00 !important;
+}
 
 /* Impressão: mostra só o conteúdo da postagem */
 @media print {
