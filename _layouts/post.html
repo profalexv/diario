@@ -9,10 +9,13 @@ layout: single
 
 {{ content }}
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js" integrity="sha512-GsLlZN/3F2ErC5ifS5QtgpiJtWd43JWSuIgh7mbzZ8zBps+dvLusV+eNQATqgA/HdeKFVgA5v3S/cIrLF7QnA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"></script>
 <script>
 document.getElementById('btn-pdf').addEventListener('click', function() {
-  var title = document.querySelector('h1.page__title') || document.querySelector('h1');
+  if (typeof html2pdf === 'undefined') {
+    alert('Biblioteca de PDF não carregou. Verifique sua conexão e tente novamente.');
+    return;
+  }
   var titleText = title ? title.innerText.trim() : 'postagem';
 
   // Monta o conteúdo: título + corpo + assinatura
